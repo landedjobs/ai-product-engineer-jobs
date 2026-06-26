@@ -1,6 +1,696 @@
 [
-  {"company": "Linear", "role": "Product Engineer (New Grad)", "location": "Remote", "type": "Full-time", "posted": "2026-06-24", "url": "https://landed.b100x.ai", "skills": ["TypeScript", "Product", "LLMs"]},
-  {"company": "Vercel", "role": "AI Product Engineer, New Grad", "location": "San Francisco / Remote", "type": "Full-time", "posted": "2026-06-22", "url": "https://landed.b100x.ai", "skills": ["Next.js", "AI SDK", "Prototyping"]},
-  {"company": "Cursor (Anysphere)", "role": "Product Engineer", "location": "San Francisco", "type": "Full-time", "posted": "2026-06-21", "url": "https://landed.b100x.ai", "skills": ["Python", "LLMs", "UX"]},
-  {"company": "Zomato", "role": "Associate Product Engineer", "location": "Gurugram, India", "type": "Full-time", "posted": "2026-06-19", "url": "https://landed.b100x.ai", "skills": ["Product", "APIs", "AI features"]}
+  {
+    "company": "Docebo",
+    "role": "Senior Product Engineer  I  - Angular",
+    "location": "Milan, Italy, Remote",
+    "type": "Senior",
+    "posted": "2026-06-22",
+    "url": "https://jobs.ashbyhq.com/docebo/2477dd0d-697e-4adf-8d1a-26da6c6283a2/application",
+    "skills": []
+  },
+  {
+    "company": "Partly",
+    "role": "Product Engineer, USA",
+    "location": "Austin, Texas, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-21",
+    "url": "https://jobs.ashbyhq.com/partly.com/f401e327-32ca-488f-a3f2-3e399ba6121b/application",
+    "skills": []
+  },
+  {
+    "company": "Partly",
+    "role": "Product Engineer, NZ, Workshop",
+    "location": "Christchurch",
+    "type": "Full-time",
+    "posted": "2026-06-21",
+    "url": "https://jobs.ashbyhq.com/partly.com/6a4f3f97-59bf-4e80-8fc0-7ba733e4364e/application",
+    "skills": []
+  },
+  {
+    "company": "Pallet",
+    "role": "Forward Deployed Product Engineer",
+    "location": "San Francisco or New York",
+    "type": "Full-time",
+    "posted": "2026-06-19",
+    "url": "https://job-boards.greenhouse.io/pallet/jobs/5169663007",
+    "skills": [
+      "AI Agents",
+      "logistics",
+      "data entry",
+      "load management",
+      "production systems",
+      "integrations"
+    ]
+  },
+  {
+    "company": "AutogenAI",
+    "role": "Senior Product Engineer, AI SaaS - Customer Facing",
+    "location": "United States, Hybrid",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://job-boards.greenhouse.io/autogenai/jobs/5270205008",
+    "skills": [
+      "generative AI",
+      "natural language processing"
+    ]
+  },
+  {
+    "company": "Hopscotch Health",
+    "role": "Product Engineer, Care Delivery",
+    "location": "Remote, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-18",
+    "url": "https://job-boards.greenhouse.io/hopscotchprimarycare/jobs/6093669004",
+    "skills": []
+  },
+  {
+    "company": "Docebo",
+    "role": "Senior Product Engineer I - Node.js",
+    "location": "Biassono, Italy, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/docebo/0045314e-a150-4276-be8f-8f280e11cdd2/application",
+    "skills": [
+      "Node.js"
+    ]
+  },
+  {
+    "company": "Docebo",
+    "role": "Senior Product Engineer I - PHP",
+    "location": "Toronto, Ontario, Remote",
+    "type": "Senior",
+    "posted": "2026-06-18",
+    "url": "https://jobs.ashbyhq.com/docebo/71b7c563-ae1d-4840-b999-49d950e4c1e1/application",
+    "skills": [
+      "PHP"
+    ]
+  },
+  {
+    "company": "Docebo",
+    "role": "Senior Product Engineer",
+    "location": "Toronto, Ontario, Remote",
+    "type": "Senior",
+    "posted": "2026-06-16",
+    "url": "https://jobs.ashbyhq.com/docebo/342a58ae-0c88-4e08-a19c-bd4aa3fd791a/application",
+    "skills": [
+      "full-stack engineering",
+      "product delivery",
+      "customer empathy"
+    ]
+  },
+  {
+    "company": "Anchorage Digital",
+    "role": "Member of Technical Staff, Agentic Banking (Product Engineer)",
+    "location": "United States, Remote",
+    "type": "Senior",
+    "posted": "2026-06-11",
+    "url": "https://jobs.lever.co/anchorage/d6cce695-8d91-4063-b731-43401b0eab5f/apply",
+    "skills": []
+  },
+  {
+    "company": "Elliptic",
+    "role": "AI Product Engineer",
+    "location": "London, United Kingdom, Remote",
+    "type": "Full-time",
+    "posted": "2026-06-11",
+    "url": "https://jobs.ashbyhq.com/elliptic/5250294b-1997-4ed1-a8cd-ee0fb0a1da11/application",
+    "skills": [
+      "LLM",
+      "LangChain",
+      "LangGraph"
+    ]
+  },
+  {
+    "company": "Docebo",
+    "role": "Senior Product Engineer I - Serverless",
+    "location": "Biassono, Italy, Remote",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://jobs.ashbyhq.com/docebo/5599b3b1-8123-495c-83f9-b6986b1ad27a/application",
+    "skills": [
+      "SaaS platform design",
+      "technical challenges",
+      "integration solutions"
+    ]
+  },
+  {
+    "company": "Docebo",
+    "role": "Senior Product Engineer II - Node.js",
+    "location": "Biassono, Italy, Remote",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://jobs.ashbyhq.com/docebo/972005e4-88f7-4778-b3a7-d41a7dbc565b/application",
+    "skills": [
+      "Node.js"
+    ]
+  },
+  {
+    "company": "Docebo",
+    "role": "Staff Product Engineer - PHP",
+    "location": "Toronto, Ontario, Remote",
+    "type": "Senior",
+    "posted": "2026-06-10",
+    "url": "https://jobs.ashbyhq.com/docebo/1492f67d-1b4e-4f6b-af70-bb1a2bcdf73d/application",
+    "skills": [
+      "full-stack expertise",
+      "product strategy",
+      "technical architecture"
+    ]
+  },
+  {
+    "company": "ClickHouse",
+    "role": "AI Product Engineer - ClickStack",
+    "location": "Netherlands (remote), Remote",
+    "type": "Full-time",
+    "posted": "2026-06-05",
+    "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6014116004",
+    "skills": []
+  },
+  {
+    "company": "Nory",
+    "role": "Senior Product Engineer - Insights",
+    "location": "Dublin, Remote",
+    "type": "Senior",
+    "posted": "2026-06-05",
+    "url": "https://jobs.ashbyhq.com/nory/4bff3935-9540-4355-b354-96956cd9e431/application",
+    "skills": [
+      "AI predictive analytics",
+      "full-stack development",
+      "data pipeline"
+    ]
+  },
+  {
+    "company": "Ideogram",
+    "role": "Full Stack Product Engineer",
+    "location": "Toronto",
+    "type": "Full-time",
+    "posted": "2026-06-03",
+    "url": "https://jobs.ashbyhq.com/ideogram/804d6d52-6ec5-4933-8009-f175d8aad956/application",
+    "skills": [
+      "generative AI",
+      "full-stack development",
+      "user experience",
+      "backend optimization"
+    ]
+  },
+  {
+    "company": "Anthropic",
+    "role": "Product Engineer, Computer Use",
+    "location": "San Francisco, WA",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5238637008",
+    "skills": [
+      "computer interfaces",
+      "user interface",
+      "backend services",
+      "product delivery",
+      "reliability",
+      "robustness"
+    ]
+  },
+  {
+    "company": "Healthtech-1",
+    "role": "Founding Product Engineer - Applied AI",
+    "location": "Stratford, East London",
+    "type": "Full-time",
+    "posted": "2026-06-02",
+    "url": "https://jobs.ashbyhq.com/Healthtech-1/da6a18a9-5a14-46b8-870e-34ee513d8627/application",
+    "skills": [
+      "NHS",
+      "automation",
+      "technology"
+    ]
+  },
+  {
+    "company": "Pallet",
+    "role": "Product Engineer (Senior/Staff)",
+    "location": "San Francisco or New York",
+    "type": "Senior",
+    "posted": "2026-05-28",
+    "url": "https://job-boards.greenhouse.io/pallet/jobs/5149075007",
+    "skills": [
+      "AI",
+      "logistics",
+      "customer solutions",
+      "cross-functional collaboration"
+    ]
+  },
+  {
+    "company": "Attio",
+    "role": "Product Engineer",
+    "location": "Poland, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-28",
+    "url": "https://jobs.ashbyhq.com/attio/8fb5c68d-84e3-45ac-b4dd-471addaa3eca/application",
+    "skills": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "React"
+    ]
+  },
+  {
+    "company": "FinQuery",
+    "role": "Product Engineer",
+    "location": "Atlanta, GA",
+    "type": "Full-time",
+    "posted": "2026-05-28",
+    "url": "https://jobs.lever.co/finquery/d545ab4f-8c02-41c5-aed7-5f1d8a03efb7/apply",
+    "skills": []
+  },
+  {
+    "company": "Graphcore",
+    "role": "Staff Manufacturing Product Engineer",
+    "location": "Bristol, UK",
+    "type": "Senior",
+    "posted": "2026-05-28",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8542598002",
+    "skills": []
+  },
+  {
+    "company": "FinQuery",
+    "role": "Lead Product Engineer",
+    "location": "Atlanta, GA",
+    "type": "Senior",
+    "posted": "2026-05-28",
+    "url": "https://jobs.lever.co/finquery/01966531-8bfe-4fa7-a539-f84ee1c5e09f/apply",
+    "skills": []
+  },
+  {
+    "company": "Encord",
+    "role": "Product Engineer",
+    "location": "London",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://jobs.ashbyhq.com/encord/0bdd6260-d8e1-41bd-82de-591ee98e5260/application",
+    "skills": []
+  },
+  {
+    "company": "Encord",
+    "role": "Product Engineer, Physical AI",
+    "location": "London",
+    "type": "Full-time",
+    "posted": "2026-05-26",
+    "url": "https://jobs.ashbyhq.com/encord/e93dca3d-7a84-4d0a-b482-81cb3be328df/application",
+    "skills": [
+      "data acquisition",
+      "data curation",
+      "3D rendering"
+    ]
+  },
+  {
+    "company": "Accurx",
+    "role": "Product Engineer (Staff)",
+    "location": "London (Shoreditch), Remote",
+    "type": "Senior",
+    "posted": "2026-05-22",
+    "url": "https://jobs.ashbyhq.com/accurx/9c9eda58-78d3-4333-8545-215f0e7056fe/application",
+    "skills": [
+      "C#",
+      "TypeScript",
+      "React",
+      "Azure",
+      "Python",
+      "ML"
+    ]
+  },
+  {
+    "company": "Accurx",
+    "role": "Product Engineer (Senior)",
+    "location": "London (Shoreditch), Remote",
+    "type": "Senior",
+    "posted": "2026-05-22",
+    "url": "https://jobs.ashbyhq.com/accurx/9a2c54da-ec6d-438c-9e92-bef718173d07/application",
+    "skills": [
+      "C#",
+      "TypeScript",
+      "React",
+      "Azure",
+      "Python",
+      "ML"
+    ]
+  },
+  {
+    "company": "Lendable",
+    "role": "Senior Product Engineer - PHP",
+    "location": "Remote, Remote",
+    "type": "Senior",
+    "posted": "2026-05-21",
+    "url": "https://jobs.ashbyhq.com/lendable/8ad93c30-3ebf-437c-b6b0-0bd88bf199ed/application",
+    "skills": [
+      "PHP"
+    ]
+  },
+  {
+    "company": "Graphcore",
+    "role": "Principal Product Engineer",
+    "location": "Bristol, UK",
+    "type": "Senior",
+    "posted": "2026-05-20",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8556007002",
+    "skills": [
+      "AI",
+      "semiconductors",
+      "manufacturing",
+      "quality",
+      "engineering",
+      "analytics"
+    ]
+  },
+  {
+    "company": "Graphcore",
+    "role": "Senior Manufacturing Product Engineer",
+    "location": "Hsinchu City, Taiwan",
+    "type": "Senior",
+    "posted": "2026-05-20",
+    "url": "https://job-boards.greenhouse.io/graphcore/jobs/8542613002",
+    "skills": []
+  },
+  {
+    "company": "Normal Computing",
+    "role": "Product Engineer",
+    "location": "New York City, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-18",
+    "url": "https://jobs.ashbyhq.com/NormalComputing/6228a7ca-2a62-47ce-99dd-08bed646db94/application",
+    "skills": [
+      "AI",
+      "semiconductor",
+      "full stack",
+      "APIs",
+      "LLMs",
+      "backend systems"
+    ]
+  },
+  {
+    "company": "Healthtech-1",
+    "role": "Senior Product Engineer",
+    "location": "Stratford, East London",
+    "type": "Senior",
+    "posted": "2026-05-13",
+    "url": "https://jobs.ashbyhq.com/Healthtech-1/7c942407-26c9-4167-bbc2-1d605d88b2c2/application",
+    "skills": []
+  },
+  {
+    "company": "Orbital",
+    "role": "Product Engineer",
+    "location": "London, Remote",
+    "type": "Full-time",
+    "posted": "2026-05-12",
+    "url": "https://jobs.ashbyhq.com/orbital/d6c13569-8d96-4a7b-9019-1dfc06268a17/application",
+    "skills": []
+  },
+  {
+    "company": "Attio",
+    "role": "Senior Product Engineer [Backend]",
+    "location": "Poland, Remote",
+    "type": "Senior",
+    "posted": "2026-05-12",
+    "url": "https://jobs.ashbyhq.com/attio/433cfa12-a43d-435e-9f69-8fb8688d1b10/application",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "GCP",
+      "REST API",
+      "backend systems",
+      "scalability"
+    ]
+  },
+  {
+    "company": "AppOmni",
+    "role": "Senior Data Science Product Engineer",
+    "location": "Remote, USA, Remote",
+    "type": "Senior",
+    "posted": "2026-05-11",
+    "url": "https://job-boards.greenhouse.io/appomni/jobs/5992049004",
+    "skills": [
+      "Data Science",
+      "Machine Learning"
+    ]
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Senior Product Engineer",
+    "location": "San Jose, United States",
+    "type": "Senior",
+    "posted": "2026-05-08",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4693928005",
+    "skills": [
+      "high-speed product development",
+      "PCIe Gen3"
+    ]
+  },
+  {
+    "company": "Hopper",
+    "role": "Senior Full Stack Product Engineer",
+    "location": "Vancouver - Remote, Remote",
+    "type": "Senior",
+    "posted": "2026-05-07",
+    "url": "https://jobs.ashbyhq.com/hopper/31f63623-4c0f-4790-b802-604f2330c864/application",
+    "skills": [
+      "AI",
+      "Scala",
+      "GCP",
+      "React",
+      "TypeScript",
+      "software engineering"
+    ]
+  },
+  {
+    "company": "Etched",
+    "role": "Product Engineer, Silicon Validation",
+    "location": "San Jose",
+    "type": "Full-time",
+    "posted": "2026-05-06",
+    "url": "https://jobs.ashbyhq.com/etched/d2064295-5939-4bca-a6af-5369a11a097e/application",
+    "skills": [
+      "silicon validation",
+      "test program development",
+      "production quality",
+      "NPI-to-HVM transitions",
+      "statistical tools"
+    ]
+  },
+  {
+    "company": "Accurx",
+    "role": "Product Engineer (Mid-Level)",
+    "location": "London (Shoreditch), Remote",
+    "type": "Full-time",
+    "posted": "2026-05-05",
+    "url": "https://jobs.ashbyhq.com/accurx/951a5116-a0dc-44b1-a64a-06c05f207d79/application",
+    "skills": [
+      "C#",
+      "TypeScript",
+      "React",
+      "Azure",
+      "Python"
+    ]
+  },
+  {
+    "company": "Ashby",
+    "role": "Staff Product Engineer, Canada",
+    "location": "Remote - Canada, Remote",
+    "type": "Senior",
+    "posted": "2026-04-30",
+    "url": "https://jobs.ashbyhq.com/ashby/448baa35-cd72-468a-bcab-51dd55b7a275/application",
+    "skills": []
+  },
+  {
+    "company": "Ashby",
+    "role": "Staff Product Engineer, Americas",
+    "location": "Remote - US, Remote",
+    "type": "Senior",
+    "posted": "2026-04-30",
+    "url": "https://jobs.ashbyhq.com/ashby/6a15668c-3f98-4404-8f1f-927cddfc5af7/application",
+    "skills": []
+  },
+  {
+    "company": "Ashby",
+    "role": "Senior Product Engineer,  Canada",
+    "location": "Remote - Canada, Remote",
+    "type": "Senior",
+    "posted": "2026-04-30",
+    "url": "https://jobs.ashbyhq.com/ashby/272bc3f4-5af6-4c14-b797-a424b62d306c/application",
+    "skills": []
+  },
+  {
+    "company": "Ashby",
+    "role": "Senior Product Engineer, Americas",
+    "location": "Remote - US, Remote",
+    "type": "Senior",
+    "posted": "2026-04-30",
+    "url": "https://jobs.ashbyhq.com/ashby/751768c6-8d97-4e91-a57d-6b85ce4b5a37/application",
+    "skills": []
+  },
+  {
+    "company": "H1",
+    "role": "Sr. Product Engineer - API Developer",
+    "location": "India Remote, Remote",
+    "type": "Senior",
+    "posted": "2026-04-30",
+    "url": "https://jobs.lever.co/h1/1ed26e5e-6f45-44a3-8492-071187ab4e02/apply",
+    "skills": []
+  },
+  {
+    "company": "First Resonance",
+    "role": "Senior Product Engineer (Product Manager)",
+    "location": "Los Angeles",
+    "type": "Senior",
+    "posted": "2026-04-02",
+    "url": "https://jobs.ashbyhq.com/first-resonance/f8880f8c-9f99-48da-8046-58780e4fb917/application",
+    "skills": []
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Technical Lead Product Engineer",
+    "location": "San Jose, United States",
+    "type": "Senior",
+    "posted": "2026-04-01",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4680695005",
+    "skills": [
+      "high-speed product development",
+      "PCIe Gen3",
+      "circuit design",
+      "ATE",
+      "test program"
+    ]
+  },
+  {
+    "company": "Lightning Labs",
+    "role": "AI Product Engineer",
+    "location": "Remote, Remote",
+    "type": "Full-time",
+    "posted": "2026-03-31",
+    "url": "https://jobs.ashbyhq.com/lightning/324103e5-b9c7-4d4a-b844-3b9fbaebc654/application",
+    "skills": [
+      "AI-native tools"
+    ]
+  },
+  {
+    "company": "Capi",
+    "role": "Product Engineer - London",
+    "location": "London, Remote",
+    "type": "Full-time",
+    "posted": "2026-03-31",
+    "url": "https://jobs.ashbyhq.com/capimoney/0d7b2564-e364-4500-9c58-91c766a7859e/application",
+    "skills": []
+  },
+  {
+    "company": "Attio",
+    "role": "Staff Product Engineer",
+    "location": "Poland, Remote",
+    "type": "Senior",
+    "posted": "2026-03-31",
+    "url": "https://jobs.ashbyhq.com/attio/a7ef676f-ba62-4316-afd6-43e9ff619378/application",
+    "skills": []
+  },
+  {
+    "company": "Camber",
+    "role": "AI Product Engineer",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "posted": "2026-03-31",
+    "url": "https://jobs.ashbyhq.com/camber/d85afd85-0014-4607-b4ce-587941026093/application",
+    "skills": []
+  },
+  {
+    "company": "Leapsome",
+    "role": "Staff Product Engineer (d/f/m)",
+    "location": "Berlin",
+    "type": "Senior",
+    "posted": "2026-03-27",
+    "url": "https://jobs.ashbyhq.com/Leapsome/caf5897a-8c66-4feb-9428-26046436b3ac/application",
+    "skills": []
+  },
+  {
+    "company": "Astera Labs",
+    "role": "Lead Product Engineer",
+    "location": "San Jose, United States",
+    "type": "Senior",
+    "posted": "2026-03-25",
+    "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4677686005",
+    "skills": []
+  },
+  {
+    "company": "Lightmatter",
+    "role": "Principal Product Engineer",
+    "location": "Mountain View, CA",
+    "type": "Senior",
+    "posted": "2026-03-12",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5152724008?gh_jid=5152724008",
+    "skills": []
+  },
+  {
+    "company": "GovWell",
+    "role": "AI Product Engineer",
+    "location": "New York, NY, Remote",
+    "type": "Full-time",
+    "posted": "2026-02-24",
+    "url": "https://jobs.ashbyhq.com/GovWell/7c4cff34-bd8d-41d7-a54b-8f9ee0d96ac3/application",
+    "skills": []
+  },
+  {
+    "company": "Beam",
+    "role": "Senior Product Engineer (Remote)",
+    "location": "Remote UK, Remote",
+    "type": "Senior",
+    "posted": "2026-01-21",
+    "url": "https://jobs.ashbyhq.com/beam-up/7da21f44-8282-4769-b210-d817734c708a/application",
+    "skills": [
+      "software engineering",
+      "product mindset",
+      "infrastructure",
+      "front-end development"
+    ]
+  },
+  {
+    "company": "Fiddler AI",
+    "role": "Staff Product Engineer (Hybrid)",
+    "location": "Palo Alto, Remote",
+    "type": "Senior",
+    "posted": "2025-10-24",
+    "url": "https://jobs.ashbyhq.com/fiddler-ai/6f045a24-6ba9-4c8c-8dcf-eef91c01ce69/application",
+    "skills": []
+  },
+  {
+    "company": "Granola",
+    "role": "Product Engineer (Full Stack)",
+    "location": "London",
+    "type": "Full-time",
+    "posted": "2025-09-22",
+    "url": "https://jobs.ashbyhq.com/granola/beb98f7b-a6c8-4949-a0c1-1ac963dfa449/application",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "React.js",
+      "Postgres",
+      "AWS",
+      "Terraform"
+    ]
+  },
+  {
+    "company": "Granola",
+    "role": "Product Engineer (Backend)",
+    "location": "London",
+    "type": "Full-time",
+    "posted": "2025-09-22",
+    "url": "https://jobs.ashbyhq.com/granola/f928eaec-2215-4811-9593-eb084eddef6c/application",
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "AWS",
+      "Terraform",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "company": "Beam",
+    "role": "Senior Product Engineer",
+    "location": "London, Remote",
+    "type": "Senior",
+    "posted": "2025-09-12",
+    "url": "https://jobs.ashbyhq.com/beam-up/e096d9a3-bd4e-4c5c-9df5-47375101e9f3/application",
+    "skills": []
+  }
 ]
