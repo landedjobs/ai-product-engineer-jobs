@@ -1,6 +1,6 @@
 [
   {
-    "slug": "greenhouse-7954001",
+    "dedupeKey": "greenhouse:7954001",
     "company": "Reddit",
     "companyDomain": "reddit.com",
     "role": "Staff Technical Product Manager, Ads ML Platform ",
@@ -22,7 +22,7 @@
     "posted": "2026-06-30T00:34:36.000Z"
   },
   {
-    "slug": "greenhouse-8003065",
+    "dedupeKey": "greenhouse:8003065",
     "company": "MongoDB",
     "companyDomain": "mongodb.com",
     "role": "Sr. Director, IT Product Management – Post Sales and Partner Technology",
@@ -59,7 +59,7 @@
     "posted": "2026-06-29T18:23:53.000Z"
   },
   {
-    "slug": "ashby-13717a8c-0613-4621-806b-b6021b6f488b",
+    "dedupeKey": "ashby:13717a8c-0613-4621-806b-b6021b6f488b",
     "company": "Crusoe Energy Systems",
     "companyDomain": "crusoeenergy.com",
     "role": "Staff Product Manager, Internal AI Solutions",
@@ -85,7 +85,7 @@
     "posted": "2026-06-29T18:11:02.250Z"
   },
   {
-    "slug": "greenhouse-7872578",
+    "dedupeKey": "greenhouse:7872578",
     "company": "Asana",
     "companyDomain": "asana.com",
     "role": "Product Owner, GTM AI",
@@ -116,7 +116,7 @@
     "posted": "2026-06-29T16:50:37.000Z"
   },
   {
-    "slug": "greenhouse-7663184",
+    "dedupeKey": "greenhouse:7663184",
     "company": "Asana",
     "companyDomain": "asana.com",
     "role": "Senior Product Manager, Agent Context",
@@ -149,7 +149,7 @@
     "posted": "2026-06-29T16:50:31.000Z"
   },
   {
-    "slug": "greenhouse-7586960",
+    "dedupeKey": "greenhouse:7586960",
     "company": "Asana",
     "companyDomain": "asana.com",
     "role": "Product Manager",
@@ -179,7 +179,7 @@
     "posted": "2026-06-29T16:50:30.000Z"
   },
   {
-    "slug": "greenhouse-4679718006",
+    "dedupeKey": "greenhouse:4679718006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Product Manager, Finance",
@@ -211,7 +211,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4673538006",
+    "dedupeKey": "greenhouse:4673538006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Product Manager, Data Center",
@@ -252,7 +252,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4690309006",
+    "dedupeKey": "greenhouse:4690309006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Senior Product Manager, People Technologies",
@@ -292,7 +292,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4684346006",
+    "dedupeKey": "greenhouse:4684346006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Sr. Product Manager, Finance",
@@ -320,7 +320,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4671513006",
+    "dedupeKey": "greenhouse:4671513006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Staff Product Manager, Data Services",
@@ -378,7 +378,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4651535006",
+    "dedupeKey": "greenhouse:4651535006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Staff Product Manager, Insights",
@@ -407,7 +407,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4642612006",
+    "dedupeKey": "greenhouse:4642612006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "Staff Product Manager, Networking",
@@ -451,7 +451,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "greenhouse-4665964006",
+    "dedupeKey": "greenhouse:4665964006",
     "company": "CoreWeave",
     "companyDomain": "coreweave.com",
     "role": "VP of Product, Research and Training Infrastructure",
@@ -480,7 +480,7 @@
     "posted": "2026-06-29T16:49:59.000Z"
   },
   {
-    "slug": "breezy-221f4e1a766b",
+    "dedupeKey": "breezy:221f4e1a766b",
     "company": "MelodyArc",
     "companyDomain": "melodyarc.com",
     "role": "Director of Product Management",
@@ -507,35 +507,7 @@
     "posted": "2026-06-29T13:59:22.574Z"
   },
   {
-    "slug": "smartrecruiters-744000134785239",
-    "company": "Septeo",
-    "companyDomain": "septeo.com",
-    "role": "Product Manager IA (H/F) ",
-    "applyUrl": "",
-    "location": "Courbevoie, IDF, France",
-    "remote": "unknown",
-    "level": "senior",
-    "skills": [
-      "product management",
-      "product strategy",
-      "product ops",
-      "ai",
-      "llm",
-      "agents",
-      "ux/ui",
-      "saas",
-      "b2b",
-      "product lifecycle",
-      "discovery",
-      "value measurement",
-      "community building",
-      "internal consulting",
-      "cross-functional leadership"
-    ],
-    "posted": "2026-06-29T12:55:50.579Z"
-  },
-  {
-    "slug": "ashby-a119db02-8cee-458b-866c-8a4d4d4df64d",
+    "dedupeKey": "ashby:a119db02-8cee-458b-866c-8a4d4d4df64d",
     "company": "Datasnipper",
     "companyDomain": "datasnipper.com",
     "role": "Senior Technical Product Manager — Document Intelligence",
@@ -571,7 +543,7 @@
     "posted": "2026-06-29T12:21:50.587Z"
   },
   {
-    "slug": "ashby-ea4bb202-d0c8-40e2-868d-0ee6f5b80f65",
+    "dedupeKey": "ashby:ea4bb202-d0c8-40e2-868d-0ee6f5b80f65",
     "company": "Datasnipper",
     "companyDomain": "datasnipper.com",
     "role": "Senior Technical Product Manager — Agent Runtime",
@@ -599,72 +571,7 @@
     "posted": "2026-06-29T12:17:10.399Z"
   },
   {
-    "slug": "smartrecruiters-744000134773209",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "Manager Application - Cybersécurité - Toulouse",
-    "applyUrl": "",
-    "location": "Colomiers, Occitanie, France",
-    "remote": "hybrid",
-    "level": "senior",
-    "skills": [
-      "product management",
-      "cybersecurity",
-      "application security",
-      "web application firewall",
-      "OWASP",
-      "agile methodologies",
-      "project management",
-      "risk management",
-      "least privilege access",
-      "zero trust",
-      "CIS benchmarks",
-      "CVE",
-      "static code analysis",
-      "dynamic code analysis",
-      "secure coding practices",
-      "product strategy",
-      "product roadmap",
-      "go-to-market strategy",
-      "technical sales support",
-      "partner management",
-      "team leadership",
-      "English"
-    ],
-    "posted": "2026-06-29T12:09:41.690Z"
-  },
-  {
-    "slug": "smartrecruiters-744000134715230",
-    "company": "CS",
-    "companyDomain": "csgroup.eu",
-    "role": "PLM Product Owner",
-    "applyUrl": "",
-    "location": "Madrid, MD, Spain",
-    "remote": "onsite",
-    "level": "mid",
-    "skills": [
-      "product lifecycle management",
-      "electrical engineering",
-      "systems engineering",
-      "product design",
-      "industrial sector",
-      "aerospace",
-      "defense",
-      "automotive",
-      "transportation",
-      "energy",
-      "electrical systems",
-      "wiring harness",
-      "electrical architecture",
-      "engineering processes",
-      "design validation",
-      "integration",
-      "english"
-    ],
-    "posted": "2026-06-29T07:40:02.380Z"
-  },
-  {
-    "slug": "recruitee-2633224",
+    "dedupeKey": "recruitee:2633224",
     "company": "N2jsoft",
     "companyDomain": "n2f.com",
     "role": "Product Manager confirmé H/F - SaaS - Fintech",
@@ -703,7 +610,7 @@
     "posted": "2026-06-29T07:06:14.000Z"
   },
   {
-    "slug": "workday-jr0285085",
+    "dedupeKey": "workday:JR0285085",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "ECG India Program Manager",
@@ -728,7 +635,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-018407",
+    "dedupeKey": "workday:JR-018407",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Director, IT Product Management - GTM AI Apps",
@@ -755,7 +662,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-017181",
+    "dedupeKey": "workday:JR-017181",
     "company": "Palo Alto Networks",
     "companyDomain": "paloaltonetworks.com",
     "role": "Senior Product Manager (Edge AI)",
@@ -780,7 +687,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020111",
+    "dedupeKey": "workday:JR2020111",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Product Manager - Omniverse Rendering",
@@ -841,7 +748,7 @@
     "posted": "2026-06-29T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8343779002",
+    "dedupeKey": "greenhouse:8343779002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Product Manager, Growth",
@@ -862,7 +769,7 @@
     "posted": "2026-06-28T15:30:06.000Z"
   },
   {
-    "slug": "ashby-a102c3f0-79fb-4e90-8061-d554f43417fd",
+    "dedupeKey": "ashby:a102c3f0-79fb-4e90-8061-d554f43417fd",
     "company": "DualEntry",
     "companyDomain": "dualentry.com",
     "role": "Staff Product Manager",
@@ -884,7 +791,7 @@
     "posted": "2026-06-28T10:46:16.793Z"
   },
   {
-    "slug": "greenhouse-5165579007",
+    "dedupeKey": "greenhouse:5165579007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Program Manager",
@@ -905,7 +812,7 @@
     "posted": "2026-06-28T09:29:28.000Z"
   },
   {
-    "slug": "greenhouse-4869081007",
+    "dedupeKey": "greenhouse:4869081007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Program Manager, Japan",
@@ -926,7 +833,7 @@
     "posted": "2026-06-28T09:18:02.000Z"
   },
   {
-    "slug": "greenhouse-4737294007",
+    "dedupeKey": "greenhouse:4737294007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, Vehicles",
@@ -950,7 +857,7 @@
     "posted": "2026-06-28T09:13:33.000Z"
   },
   {
-    "slug": "greenhouse-7787975003",
+    "dedupeKey": "greenhouse:7787975003",
     "company": "Zipline",
     "companyDomain": "flyzipline.com",
     "role": "Product Lead, Marketplace Pricing",
@@ -972,7 +879,7 @@
     "posted": "2026-06-28T04:33:53.000Z"
   },
   {
-    "slug": "greenhouse-7993722",
+    "dedupeKey": "greenhouse:7993722",
     "company": "Pantheon Platform",
     "companyDomain": "pantheon.io",
     "role": "Senior Product Manager, Developer Experience",
@@ -993,7 +900,7 @@
     "posted": "2026-06-27T19:36:41.000Z"
   },
   {
-    "slug": "greenhouse-7997436",
+    "dedupeKey": "greenhouse:7997436",
     "company": "Pantheon Platform",
     "companyDomain": "pantheon.io",
     "role": "Senior Product Manager, Developer Experience",
@@ -1013,7 +920,7 @@
     "posted": "2026-06-27T19:36:41.000Z"
   },
   {
-    "slug": "greenhouse-7998059",
+    "dedupeKey": "greenhouse:7998059",
     "company": "Pantheon Platform",
     "companyDomain": "pantheon.io",
     "role": "Senior Product Manager, Next.js Platform",
@@ -1035,7 +942,7 @@
     "posted": "2026-06-27T19:36:41.000Z"
   },
   {
-    "slug": "greenhouse-7998061",
+    "dedupeKey": "greenhouse:7998061",
     "company": "Pantheon Platform",
     "companyDomain": "pantheon.io",
     "role": "Senior Product Manager, Next.js Platform",
@@ -1057,7 +964,7 @@
     "posted": "2026-06-27T19:36:41.000Z"
   },
   {
-    "slug": "greenhouse-7559181003",
+    "dedupeKey": "greenhouse:7559181003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Product Manager - Integrations ",
@@ -1079,7 +986,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7524543003",
+    "dedupeKey": "greenhouse:7524543003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Data & Integrations",
@@ -1105,7 +1012,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7524547003",
+    "dedupeKey": "greenhouse:7524547003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Data & Integrations",
@@ -1126,7 +1033,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7547715003",
+    "dedupeKey": "greenhouse:7547715003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Enterprise Platform",
@@ -1161,7 +1068,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7535819003",
+    "dedupeKey": "greenhouse:7535819003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Enterprise Platform",
@@ -1196,7 +1103,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7735422003",
+    "dedupeKey": "greenhouse:7735422003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Growth",
@@ -1217,7 +1124,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7735002003",
+    "dedupeKey": "greenhouse:7735002003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Monetization Platform",
@@ -1242,7 +1149,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-6648548003",
+    "dedupeKey": "greenhouse:6648548003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Observability & Monitoring",
@@ -1268,7 +1175,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-6645141003",
+    "dedupeKey": "greenhouse:6645141003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Observability & Monitoring",
@@ -1291,7 +1198,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-6666499003",
+    "dedupeKey": "greenhouse:6666499003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Reverse ETL",
@@ -1314,7 +1221,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-6648720003",
+    "dedupeKey": "greenhouse:6648720003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Senior Product Manager, Reverse ETL",
@@ -1337,7 +1244,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7735295003",
+    "dedupeKey": "greenhouse:7735295003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Staff Product Manager, Connectors",
@@ -1357,7 +1264,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7644168003",
+    "dedupeKey": "greenhouse:7644168003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Staff Product Manager, Reverse ETL",
@@ -1380,7 +1287,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-7758876003",
+    "dedupeKey": "greenhouse:7758876003",
     "company": "Fivetran",
     "companyDomain": "fivetran.com",
     "role": "Staff Technical Product Manager, Quote to Order",
@@ -1404,7 +1311,7 @@
     "posted": "2026-06-27T18:11:02.000Z"
   },
   {
-    "slug": "greenhouse-8031925",
+    "dedupeKey": "greenhouse:8031925",
     "company": "YipitData",
     "companyDomain": "yipitdata.com",
     "role": "AI Product Manager",
@@ -1426,7 +1333,7 @@
     "posted": "2026-06-27T01:25:56.000Z"
   },
   {
-    "slug": "ashby-c97ced3f-0084-41ed-9960-6e58c006c85c",
+    "dedupeKey": "ashby:c97ced3f-0084-41ed-9960-6e58c006c85c",
     "company": "Ready",
     "companyDomain": "ready.net",
     "role": "Technical Product Manager",
@@ -1449,7 +1356,7 @@
     "posted": "2026-06-27T00:30:49.497Z"
   },
   {
-    "slug": "greenhouse-8560772002",
+    "dedupeKey": "greenhouse:8560772002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager, Agentic AI Applications",
@@ -1480,7 +1387,7 @@
     "posted": "2026-06-27T00:17:36.000Z"
   },
   {
-    "slug": "greenhouse-8427940002",
+    "dedupeKey": "greenhouse:8427940002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager, AI Platform",
@@ -1507,7 +1414,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8420609002",
+    "dedupeKey": "greenhouse:8420609002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager, AI Platform",
@@ -1535,7 +1442,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8420607002",
+    "dedupeKey": "greenhouse:8420607002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager, Serverless Workspaces",
@@ -1565,7 +1472,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8427954002",
+    "dedupeKey": "greenhouse:8427954002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager, Serverless Workspaces",
@@ -1591,7 +1498,7 @@
     "posted": "2026-06-27T00:17:33.000Z"
   },
   {
-    "slug": "greenhouse-8387085002",
+    "dedupeKey": "greenhouse:8387085002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager - Technical",
@@ -1627,7 +1534,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8394060002",
+    "dedupeKey": "greenhouse:8394060002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager - Technical",
@@ -1655,7 +1562,7 @@
     "posted": "2026-06-27T00:17:32.000Z"
   },
   {
-    "slug": "greenhouse-8326513002",
+    "dedupeKey": "greenhouse:8326513002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Databricks Repos",
@@ -1687,7 +1594,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8326570002",
+    "dedupeKey": "greenhouse:8326570002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Databricks Repos",
@@ -1727,7 +1634,7 @@
     "posted": "2026-06-27T00:17:31.000Z"
   },
   {
-    "slug": "greenhouse-8200462002",
+    "dedupeKey": "greenhouse:8200462002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Compute Platform",
@@ -1755,7 +1662,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-8200284002",
+    "dedupeKey": "greenhouse:8200284002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Compute Platform",
@@ -1783,7 +1690,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-8136071002",
+    "dedupeKey": "greenhouse:8136071002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Databricks AI",
@@ -1809,7 +1716,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-8136204002",
+    "dedupeKey": "greenhouse:8136204002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Databricks AI",
@@ -1835,7 +1742,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-8203285002",
+    "dedupeKey": "greenhouse:8203285002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr Product Manager, Employee Experience",
@@ -1862,7 +1769,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-8186386002",
+    "dedupeKey": "greenhouse:8186386002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Lakeflow",
@@ -1892,7 +1799,7 @@
     "posted": "2026-06-27T00:17:30.000Z"
   },
   {
-    "slug": "greenhouse-7680573002",
+    "dedupeKey": "greenhouse:7680573002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Databricks Free Edition",
@@ -1917,7 +1824,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-8235785002",
+    "dedupeKey": "greenhouse:8235785002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Databricks Free Edition",
@@ -1942,7 +1849,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7863522002",
+    "dedupeKey": "greenhouse:7863522002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Data Governance",
@@ -1972,7 +1879,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7863365002",
+    "dedupeKey": "greenhouse:7863365002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Data Governance",
@@ -2004,7 +1911,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7924423002",
+    "dedupeKey": "greenhouse:7924423002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, DBSQL",
@@ -2027,7 +1934,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7929994002",
+    "dedupeKey": "greenhouse:7929994002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, DBSQL",
@@ -2050,7 +1957,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7649411002",
+    "dedupeKey": "greenhouse:7649411002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager",
@@ -2072,7 +1979,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7649409002",
+    "dedupeKey": "greenhouse:7649409002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager",
@@ -2100,7 +2007,7 @@
     "posted": "2026-06-27T00:17:28.000Z"
   },
   {
-    "slug": "greenhouse-7110509002",
+    "dedupeKey": "greenhouse:7110509002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager, Security",
@@ -2126,7 +2033,7 @@
     "posted": "2026-06-27T00:17:27.000Z"
   },
   {
-    "slug": "greenhouse-7110499002",
+    "dedupeKey": "greenhouse:7110499002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Staff Product Manager, Security",
@@ -2156,7 +2063,7 @@
     "posted": "2026-06-27T00:17:27.000Z"
   },
   {
-    "slug": "greenhouse-6322654002",
+    "dedupeKey": "greenhouse:6322654002",
     "company": "Databricks",
     "companyDomain": "databricks.com",
     "role": "Sr. Product Manager, Data Engineering",
@@ -2185,7 +2092,7 @@
     "posted": "2026-06-27T00:17:25.000Z"
   },
   {
-    "slug": "greenhouse-5171078007",
+    "dedupeKey": "greenhouse:5171078007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Projects to Close (PTC) Associate Product Manager",
@@ -2206,7 +2113,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5121643007",
+    "dedupeKey": "greenhouse:5121643007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Manager, Internal Tools",
@@ -2225,7 +2132,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5153208007",
+    "dedupeKey": "greenhouse:5153208007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Software Product Manager, Surveillance Tower",
@@ -2290,7 +2197,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5031094007",
+    "dedupeKey": "greenhouse:5031094007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, Air Dominance & Strike, Autonomous Airpower - Active Clearance",
@@ -2310,7 +2217,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5174516007",
+    "dedupeKey": "greenhouse:5174516007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, Space Battle Management",
@@ -2337,7 +2244,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5164343007",
+    "dedupeKey": "greenhouse:5164343007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Program Manager, Launched Effects",
@@ -2367,7 +2274,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5157575007",
+    "dedupeKey": "greenhouse:5157575007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Comms & ISR",
@@ -2390,7 +2297,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5119942007",
+    "dedupeKey": "greenhouse:5119942007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Maritime",
@@ -2415,7 +2322,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5171080007",
+    "dedupeKey": "greenhouse:5171080007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "ERP - PTC Product Analyst",
@@ -2434,7 +2341,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5172271007",
+    "dedupeKey": "greenhouse:5172271007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "PPM Functional Lead",
@@ -2455,7 +2362,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5023386007",
+    "dedupeKey": "greenhouse:5023386007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Product Manager, Air Defense, Vehicles",
@@ -2480,7 +2387,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5130833007",
+    "dedupeKey": "greenhouse:5130833007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Manager, Corporate OS",
@@ -2503,7 +2410,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5144227007",
+    "dedupeKey": "greenhouse:5144227007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Software Product Manager, ArsenalOS Quality",
@@ -2531,7 +2438,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5142426007",
+    "dedupeKey": "greenhouse:5142426007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager (Active Clearance)",
@@ -2555,7 +2462,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5032227007",
+    "dedupeKey": "greenhouse:5032227007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, R&D - Active Clearance ",
@@ -2580,7 +2487,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166254007",
+    "dedupeKey": "greenhouse:5166254007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, Sentry Systems",
@@ -2612,7 +2519,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5031097007",
+    "dedupeKey": "greenhouse:5031097007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Technical Program Manager, Air Dominance & Strike, Autonomous Airpower - Active Clearance",
@@ -2641,7 +2548,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5158738007",
+    "dedupeKey": "greenhouse:5158738007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, PES ",
@@ -2665,7 +2572,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5141963007",
+    "dedupeKey": "greenhouse:5141963007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mission Operations Product Manager, Group 5 Mission Autonomy",
@@ -2692,7 +2599,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5171077007",
+    "dedupeKey": "greenhouse:5171077007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Oracle Project Accountant System Analyst",
@@ -2713,7 +2620,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5172273007",
+    "dedupeKey": "greenhouse:5172273007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Projects to Close (PTC) Associate Product Manager",
@@ -2734,7 +2641,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5149261007",
+    "dedupeKey": "greenhouse:5149261007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Manager, Corporate OS",
@@ -2757,7 +2664,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166289007",
+    "dedupeKey": "greenhouse:5166289007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Manager, Internal Tools",
@@ -2776,7 +2683,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166751007",
+    "dedupeKey": "greenhouse:5166751007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Program Manager",
@@ -2796,7 +2703,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5078700007",
+    "dedupeKey": "greenhouse:5078700007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Software Product Manager",
@@ -2816,7 +2723,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5162190007",
+    "dedupeKey": "greenhouse:5162190007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, PES ",
@@ -2837,7 +2744,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5171786007",
+    "dedupeKey": "greenhouse:5171786007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager - Radar",
@@ -2860,7 +2767,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5173552007",
+    "dedupeKey": "greenhouse:5173552007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, Space Battle Management",
@@ -2882,7 +2789,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5120927007",
+    "dedupeKey": "greenhouse:5120927007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Software Product Manager, Air Defense",
@@ -2909,7 +2816,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5026637007",
+    "dedupeKey": "greenhouse:5026637007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Technical Program Manager, Advanced Effects",
@@ -2934,7 +2841,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5174499007",
+    "dedupeKey": "greenhouse:5174499007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Space Battle Management",
@@ -2958,7 +2865,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5150729007",
+    "dedupeKey": "greenhouse:5150729007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager - Radar",
@@ -2979,7 +2886,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5167709007",
+    "dedupeKey": "greenhouse:5167709007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Small Drones",
@@ -3001,7 +2908,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5116725007",
+    "dedupeKey": "greenhouse:5116725007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Surface Maritime Engineering",
@@ -3026,7 +2933,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5088628007",
+    "dedupeKey": "greenhouse:5088628007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Data Product Enablement Specialist ",
@@ -3051,7 +2958,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5137720007",
+    "dedupeKey": "greenhouse:5137720007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Mission Operations Product Manager, Group 5 Mission Autonomy",
@@ -3079,7 +2986,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166779007",
+    "dedupeKey": "greenhouse:5166779007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Product Manager, Deployed Optical Systems",
@@ -3104,7 +3011,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5144731007",
+    "dedupeKey": "greenhouse:5144731007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Product Manager, HCM",
@@ -3127,7 +3034,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5136878007",
+    "dedupeKey": "greenhouse:5136878007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Software Product Manager, Multi-Domain C2 Platform",
@@ -3154,7 +3061,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-4695056007",
+    "dedupeKey": "greenhouse:4695056007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, Advanced Effects",
@@ -3177,7 +3084,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5129455007",
+    "dedupeKey": "greenhouse:5129455007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Senior Technical Program Manager, Small Drones ",
@@ -3199,7 +3106,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5085909007",
+    "dedupeKey": "greenhouse:5085909007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Technical Program Manager",
@@ -3227,7 +3134,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5073721007",
+    "dedupeKey": "greenhouse:5073721007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Staff Technical Program Manager, Sentry Hardware Development",
@@ -3262,7 +3169,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5165514007",
+    "dedupeKey": "greenhouse:5165514007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager",
@@ -3285,7 +3192,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5158049007",
+    "dedupeKey": "greenhouse:5158049007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Comms & ISR",
@@ -3308,7 +3215,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5158074007",
+    "dedupeKey": "greenhouse:5158074007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Comms & ISR",
@@ -3331,7 +3238,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5166487007",
+    "dedupeKey": "greenhouse:5166487007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Maneuver Dominance ",
@@ -3354,7 +3261,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5158747007",
+    "dedupeKey": "greenhouse:5158747007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Product ",
@@ -3379,7 +3286,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "greenhouse-5146970007",
+    "dedupeKey": "greenhouse:5146970007",
     "company": "Anduril Industries",
     "companyDomain": "anduril.com",
     "role": "Technical Program Manager, Space Systems",
@@ -3401,7 +3308,7 @@
     "posted": "2026-06-27T00:05:43.000Z"
   },
   {
-    "slug": "workday-r14652",
+    "dedupeKey": "workday:R14652",
     "company": "Newfold Digital",
     "companyDomain": "newfold.com",
     "role": "Principal Product Manager - AI Websites",
@@ -3430,7 +3337,7 @@
     "posted": "2026-06-27T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-7687998",
+    "dedupeKey": "greenhouse:7687998",
     "company": "Justworks",
     "companyDomain": "justworks.com",
     "role": "Head of Pricing and Packaging, PMM",
@@ -3449,7 +3356,7 @@
     "posted": "2026-06-26T23:58:45.000Z"
   },
   {
-    "slug": "ashby-37e6a38f-71ff-4ff9-8151-ddbd20fcb6ae",
+    "dedupeKey": "ashby:37e6a38f-71ff-4ff9-8151-ddbd20fcb6ae",
     "company": "Physical Intelligence",
     "companyDomain": "physicalintelligence.company",
     "role": "Product Manager",
@@ -3468,7 +3375,7 @@
     "posted": "2026-06-26T23:41:53.201Z"
   },
   {
-    "slug": "ashby-b70d661e-4a98-4518-af71-ddd728c7a61b",
+    "dedupeKey": "ashby:b70d661e-4a98-4518-af71-ddd728c7a61b",
     "company": "Emanate",
     "companyDomain": "emanate.ai",
     "role": "Agent Product Manager  ",
@@ -3485,7 +3392,7 @@
     "posted": "2026-06-26T23:22:14.093Z"
   },
   {
-    "slug": "greenhouse-7740282",
+    "dedupeKey": "greenhouse:7740282",
     "company": "Flexport",
     "companyDomain": "flexport.com",
     "role": "Senior Product Manager, Client Experience",
@@ -3504,7 +3411,7 @@
     "posted": "2026-06-26T22:17:52.000Z"
   },
   {
-    "slug": "greenhouse-8022960",
+    "dedupeKey": "greenhouse:8022960",
     "company": "Flexport",
     "companyDomain": "flexport.com",
     "role": "Staff Product Manager",
@@ -3526,7 +3433,7 @@
     "posted": "2026-06-26T22:17:52.000Z"
   },
   {
-    "slug": "greenhouse-7740288",
+    "dedupeKey": "greenhouse:7740288",
     "company": "Flexport",
     "companyDomain": "flexport.com",
     "role": "Staff Product Manager",
@@ -3546,7 +3453,7 @@
     "posted": "2026-06-26T22:17:52.000Z"
   },
   {
-    "slug": "greenhouse-8011493",
+    "dedupeKey": "greenhouse:8011493",
     "company": "Flexport",
     "companyDomain": "flexport.com",
     "role": "Staff Product Manager ",
@@ -3566,7 +3473,7 @@
     "posted": "2026-06-26T22:17:52.000Z"
   },
   {
-    "slug": "greenhouse-7849059",
+    "dedupeKey": "greenhouse:7849059",
     "company": "Flexport",
     "companyDomain": "flexport.com",
     "role": "Staff Product Manager, Growth",
@@ -3592,7 +3499,7 @@
     "posted": "2026-06-26T22:17:52.000Z"
   },
   {
-    "slug": "greenhouse-7785610003",
+    "dedupeKey": "greenhouse:7785610003",
     "company": "Next Insurance",
     "companyDomain": "next-insurance.com",
     "role": "Insurance Product Manager ",
@@ -3614,7 +3521,7 @@
     "posted": "2026-06-26T21:55:53.000Z"
   },
   {
-    "slug": "greenhouse-7885055",
+    "dedupeKey": "greenhouse:7885055",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Staff IT Product Manager, Sales & Marketing",
@@ -3634,7 +3541,7 @@
     "posted": "2026-06-26T21:49:34.000Z"
   },
   {
-    "slug": "greenhouse-5175674007",
+    "dedupeKey": "greenhouse:5175674007",
     "company": "Split",
     "companyDomain": "split.io",
     "role": "Principal / Director, Product Management – Code & Container Security",
@@ -3657,7 +3564,7 @@
     "posted": "2026-06-26T21:39:31.000Z"
   },
   {
-    "slug": "ashby-7f4157b8-49dd-41bc-b172-223708328724",
+    "dedupeKey": "ashby:7f4157b8-49dd-41bc-b172-223708328724",
     "company": "Playground",
     "companyDomain": "playground.global",
     "role": "Technical Product Manager ",
@@ -3682,7 +3589,7 @@
     "posted": "2026-06-26T21:26:46.359Z"
   },
   {
-    "slug": "greenhouse-8014786",
+    "dedupeKey": "greenhouse:8014786",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Lead, Data Products",
@@ -3718,7 +3625,7 @@
     "posted": "2026-06-26T21:05:48.000Z"
   },
   {
-    "slug": "greenhouse-8010011",
+    "dedupeKey": "greenhouse:8010011",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, EMEA Local Payment Methods",
@@ -3751,7 +3658,7 @@
     "posted": "2026-06-26T21:05:48.000Z"
   },
   {
-    "slug": "greenhouse-8009671",
+    "dedupeKey": "greenhouse:8009671",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Global Marketplaces",
@@ -3775,7 +3682,7 @@
     "posted": "2026-06-26T21:05:48.000Z"
   },
   {
-    "slug": "greenhouse-7984866",
+    "dedupeKey": "greenhouse:7984866",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Ecosystem Risk",
@@ -3801,7 +3708,7 @@
     "posted": "2026-06-26T21:05:46.000Z"
   },
   {
-    "slug": "greenhouse-7994443",
+    "dedupeKey": "greenhouse:7994443",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Global Payouts – Cross-Border & Enterprise Capabilities",
@@ -3831,7 +3738,7 @@
     "posted": "2026-06-26T21:05:46.000Z"
   },
   {
-    "slug": "greenhouse-7979422",
+    "dedupeKey": "greenhouse:7979422",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager - Compliance, Bridge",
@@ -3858,7 +3765,7 @@
     "posted": "2026-06-26T21:05:45.000Z"
   },
   {
-    "slug": "greenhouse-7981330",
+    "dedupeKey": "greenhouse:7981330",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Link - Local Payment Methods",
@@ -3883,7 +3790,7 @@
     "posted": "2026-06-26T21:05:45.000Z"
   },
   {
-    "slug": "greenhouse-7947422",
+    "dedupeKey": "greenhouse:7947422",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Ecosystem Risk",
@@ -3910,7 +3817,7 @@
     "posted": "2026-06-26T21:05:43.000Z"
   },
   {
-    "slug": "greenhouse-7943244",
+    "dedupeKey": "greenhouse:7943244",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Ecosystem Risk",
@@ -3937,7 +3844,7 @@
     "posted": "2026-06-26T21:05:43.000Z"
   },
   {
-    "slug": "greenhouse-7913698",
+    "dedupeKey": "greenhouse:7913698",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Sail Core",
@@ -3965,7 +3872,7 @@
     "posted": "2026-06-26T21:05:42.000Z"
   },
   {
-    "slug": "greenhouse-7920219",
+    "dedupeKey": "greenhouse:7920219",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Product Manager, Support Experience",
@@ -3991,7 +3898,7 @@
     "posted": "2026-06-26T21:05:42.000Z"
   },
   {
-    "slug": "greenhouse-7913702",
+    "dedupeKey": "greenhouse:7913702",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Product Manager, Dashboard",
@@ -4016,7 +3923,7 @@
     "posted": "2026-06-26T21:05:41.000Z"
   },
   {
-    "slug": "greenhouse-7901987",
+    "dedupeKey": "greenhouse:7901987",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Startup Products",
@@ -4040,7 +3947,7 @@
     "posted": "2026-06-26T21:05:39.000Z"
   },
   {
-    "slug": "greenhouse-7869917",
+    "dedupeKey": "greenhouse:7869917",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Lead, Support Experience",
@@ -4067,7 +3974,7 @@
     "posted": "2026-06-26T21:05:38.000Z"
   },
   {
-    "slug": "greenhouse-7819759",
+    "dedupeKey": "greenhouse:7819759",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Lead, Connect",
@@ -4095,7 +4002,7 @@
     "posted": "2026-06-26T21:05:37.000Z"
   },
   {
-    "slug": "greenhouse-7809139",
+    "dedupeKey": "greenhouse:7809139",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Growth AI Outreach Motion ",
@@ -4128,7 +4035,7 @@
     "posted": "2026-06-26T21:05:36.000Z"
   },
   {
-    "slug": "greenhouse-7812856",
+    "dedupeKey": "greenhouse:7812856",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Product Manager, Enterprise (Industries) ",
@@ -4160,7 +4067,7 @@
     "posted": "2026-06-26T21:05:36.000Z"
   },
   {
-    "slug": "greenhouse-7768979",
+    "dedupeKey": "greenhouse:7768979",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Lead, EMEA Payments",
@@ -4185,7 +4092,7 @@
     "posted": "2026-06-26T21:05:35.000Z"
   },
   {
-    "slug": "greenhouse-8027435",
+    "dedupeKey": "greenhouse:8027435",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Lead, EMEA Payments",
@@ -4210,7 +4117,7 @@
     "posted": "2026-06-26T21:05:35.000Z"
   },
   {
-    "slug": "greenhouse-7749540",
+    "dedupeKey": "greenhouse:7749540",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Technical Program Manager, Extensibility Programs",
@@ -4237,7 +4144,7 @@
     "posted": "2026-06-26T21:05:35.000Z"
   },
   {
-    "slug": "greenhouse-7721834",
+    "dedupeKey": "greenhouse:7721834",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Capital",
@@ -4260,7 +4167,7 @@
     "posted": "2026-06-26T21:05:34.000Z"
   },
   {
-    "slug": "greenhouse-7625842",
+    "dedupeKey": "greenhouse:7625842",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Risk & Compliance",
@@ -4283,7 +4190,7 @@
     "posted": "2026-06-26T21:05:32.000Z"
   },
   {
-    "slug": "greenhouse-7653021",
+    "dedupeKey": "greenhouse:7653021",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Technical Program Manager",
@@ -4304,7 +4211,7 @@
     "posted": "2026-06-26T21:05:32.000Z"
   },
   {
-    "slug": "greenhouse-7561053",
+    "dedupeKey": "greenhouse:7561053",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Treasury for Platforms",
@@ -4332,7 +4239,7 @@
     "posted": "2026-06-26T21:05:31.000Z"
   },
   {
-    "slug": "greenhouse-7570242",
+    "dedupeKey": "greenhouse:7570242",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Product Manager, Global Expansion",
@@ -4362,7 +4269,7 @@
     "posted": "2026-06-26T21:05:31.000Z"
   },
   {
-    "slug": "greenhouse-7392697",
+    "dedupeKey": "greenhouse:7392697",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Link - Consumer",
@@ -4388,7 +4295,7 @@
     "posted": "2026-06-26T21:05:28.000Z"
   },
   {
-    "slug": "greenhouse-7778643",
+    "dedupeKey": "greenhouse:7778643",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Technical Program Manager,  Extensibility Programs",
@@ -4409,7 +4316,7 @@
     "posted": "2026-06-26T21:05:28.000Z"
   },
   {
-    "slug": "greenhouse-7655023",
+    "dedupeKey": "greenhouse:7655023",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Lead, AI",
@@ -4432,7 +4339,7 @@
     "posted": "2026-06-26T21:05:26.000Z"
   },
   {
-    "slug": "greenhouse-7980498",
+    "dedupeKey": "greenhouse:7980498",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Product Manager, Cards Monetization",
@@ -4458,7 +4365,7 @@
     "posted": "2026-06-26T21:05:26.000Z"
   },
   {
-    "slug": "greenhouse-7819059",
+    "dedupeKey": "greenhouse:7819059",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Staff Product Manager, Payments",
@@ -4491,7 +4398,7 @@
     "posted": "2026-06-26T21:05:26.000Z"
   },
   {
-    "slug": "greenhouse-7176530",
+    "dedupeKey": "greenhouse:7176530",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Payments",
@@ -4521,7 +4428,7 @@
     "posted": "2026-06-26T21:05:24.000Z"
   },
   {
-    "slug": "greenhouse-7927089",
+    "dedupeKey": "greenhouse:7927089",
     "company": "Stripe",
     "companyDomain": "stripe.com",
     "role": "Product Manager, Terminal Device Expansion",
@@ -4553,7 +4460,7 @@
     "posted": "2026-06-26T21:05:24.000Z"
   },
   {
-    "slug": "greenhouse-8020838",
+    "dedupeKey": "greenhouse:8020838",
     "company": "project44",
     "companyDomain": "project44.com",
     "role": "Senior / Principal Product Manager-AI Agent Manager and AI Agent Workflows ",
@@ -4573,7 +4480,7 @@
     "posted": "2026-06-26T21:04:57.000Z"
   },
   {
-    "slug": "greenhouse-6103326004",
+    "dedupeKey": "greenhouse:6103326004",
     "company": "Diligent Corporation",
     "companyDomain": "diligent.com",
     "role": "Senior Product Manager",
@@ -4591,7 +4498,7 @@
     "posted": "2026-06-26T20:47:46.000Z"
   },
   {
-    "slug": "ashby-89a7b99f-8242-4ed8-926f-796ec453b66d",
+    "dedupeKey": "ashby:89a7b99f-8242-4ed8-926f-796ec453b66d",
     "company": "Runlayer",
     "companyDomain": "runlayer.com",
     "role": "Founding Product Manager, Control Plane",
@@ -4614,7 +4521,7 @@
     "posted": "2026-06-26T20:46:01.573Z"
   },
   {
-    "slug": "ashby-771c67d0-07d1-4729-b15c-a72983b9d22a",
+    "dedupeKey": "ashby:771c67d0-07d1-4729-b15c-a72983b9d22a",
     "company": "Runlayer",
     "companyDomain": "runlayer.com",
     "role": "Founding Product Manager, Agents",
@@ -4636,7 +4543,7 @@
     "posted": "2026-06-26T20:41:02.914Z"
   },
   {
-    "slug": "greenhouse-8031553",
+    "dedupeKey": "greenhouse:8031553",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Group Product Manager - Privleged Access Management",
@@ -4658,7 +4565,7 @@
     "posted": "2026-06-26T20:38:21.000Z"
   },
   {
-    "slug": "greenhouse-8478204002",
+    "dedupeKey": "greenhouse:8478204002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Product Manager, AI & App Experience",
@@ -4684,7 +4591,7 @@
     "posted": "2026-06-26T20:01:45.000Z"
   },
   {
-    "slug": "greenhouse-5175483007",
+    "dedupeKey": "greenhouse:5175483007",
     "company": "ezCater",
     "companyDomain": "ezcater.com",
     "role": "Senior Product Manager, Data Platform (Remote)",
@@ -4708,7 +4615,7 @@
     "posted": "2026-06-26T19:46:06.000Z"
   },
   {
-    "slug": "greenhouse-5990151004",
+    "dedupeKey": "greenhouse:5990151004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Director, Product Management",
@@ -4727,7 +4634,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-6020259004",
+    "dedupeKey": "greenhouse:6020259004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Senior Director, Product Management (Fintech)",
@@ -4753,7 +4660,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-5826184004",
+    "dedupeKey": "greenhouse:5826184004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Senior Product Manager I (Mobile) ",
@@ -4780,7 +4687,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "greenhouse-5826186004",
+    "dedupeKey": "greenhouse:5826186004",
     "company": "Housecall Pro",
     "companyDomain": "housecallpro.com",
     "role": "Senior Product Manager I (Mobile) ",
@@ -4805,7 +4712,7 @@
     "posted": "2026-06-26T18:38:58.000Z"
   },
   {
-    "slug": "ashby-af027902-d625-4346-91a5-3f673f9a4a2a",
+    "dedupeKey": "ashby:af027902-d625-4346-91a5-3f673f9a4a2a",
     "company": "Imprint",
     "companyDomain": "imprint.co",
     "role": "Head of Risk Product Strategy",
@@ -4825,7 +4732,7 @@
     "posted": "2026-06-26T18:29:09.914Z"
   },
   {
-    "slug": "ashby-1216b030-76e0-443e-a7a7-7e826d3b3960",
+    "dedupeKey": "ashby:1216b030-76e0-443e-a7a7-7e826d3b3960",
     "company": "Siena",
     "companyDomain": "siena.cx",
     "role": "Product Specialist",
@@ -4848,7 +4755,7 @@
     "posted": "2026-06-26T18:07:57.152Z"
   },
   {
-    "slug": "ashby-7025f159-96f0-4621-81e9-7b985c8a959d",
+    "dedupeKey": "ashby:7025f159-96f0-4621-81e9-7b985c8a959d",
     "company": "Gorgias",
     "companyDomain": "gorgias.com",
     "role": "Staff Product Manager - AI Journey",
@@ -4867,7 +4774,7 @@
     "posted": "2026-06-26T16:33:56.844Z"
   },
   {
-    "slug": "ashby-1dd7d181-31a0-4d2a-bd69-84fb8d96abaa",
+    "dedupeKey": "ashby:1dd7d181-31a0-4d2a-bd69-84fb8d96abaa",
     "company": "Imprint",
     "companyDomain": "imprint.co",
     "role": "Product Manager, Consumer ",
@@ -4883,7 +4790,7 @@
     "posted": "2026-06-26T16:17:10.676Z"
   },
   {
-    "slug": "greenhouse-8027540",
+    "dedupeKey": "greenhouse:8027540",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Senior Technical Program Manager, Productivity Engineering (Data Platform · AI Transformation)",
@@ -4907,7 +4814,7 @@
     "posted": "2026-06-26T15:59:00.000Z"
   },
   {
-    "slug": "greenhouse-8030599",
+    "dedupeKey": "greenhouse:8030599",
     "company": "Datadog",
     "companyDomain": "datadoghq.com",
     "role": "Senior Product Manager - Agent Integrations",
@@ -4938,7 +4845,7 @@
     "posted": "2026-06-26T15:53:53.000Z"
   },
   {
-    "slug": "ashby-de62a5a5-5053-4af1-bc24-715236972371",
+    "dedupeKey": "ashby:de62a5a5-5053-4af1-bc24-715236972371",
     "company": "Vetcove",
     "companyDomain": "vetcove.com",
     "role": "Senior Product Manager",
@@ -4959,7 +4866,7 @@
     "posted": "2026-06-26T14:03:47.389Z"
   },
   {
-    "slug": "greenhouse-7976001",
+    "dedupeKey": "greenhouse:7976001",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Staff Product Manager-Identity Resilience",
@@ -4986,7 +4893,7 @@
     "posted": "2026-06-26T12:34:57.000Z"
   },
   {
-    "slug": "ashby-d3822144-0d44-4d10-8a05-75628c162127",
+    "dedupeKey": "ashby:d3822144-0d44-4d10-8a05-75628c162127",
     "company": "Connectly.ai",
     "companyDomain": "connectly.ai",
     "role": "Agent Product Manager - New Verticals",
@@ -5016,7 +4923,7 @@
     "posted": "2026-06-26T11:45:48.222Z"
   },
   {
-    "slug": "greenhouse-7701642",
+    "dedupeKey": "greenhouse:7701642",
     "company": "Coinbase",
     "companyDomain": "coinbase.com",
     "role": "Group Product Manager, Compliance Automation",
@@ -5045,7 +4952,7 @@
     "posted": "2026-06-26T11:32:59.000Z"
   },
   {
-    "slug": "ashby-1e065abd-730d-4d73-b7ac-8e4a513ce91c",
+    "dedupeKey": "ashby:1e065abd-730d-4d73-b7ac-8e4a513ce91c",
     "company": "TravelPerk",
     "companyDomain": "travelperk.com",
     "role": "Staff Product Manager - Billing (VAT)",
@@ -5065,7 +4972,7 @@
     "posted": "2026-06-26T10:46:48.494Z"
   },
   {
-    "slug": "greenhouse-7766942003",
+    "dedupeKey": "greenhouse:7766942003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Director, Product Management - Channel Infrastructure & Mobile",
@@ -5093,7 +5000,7 @@
     "posted": "2026-06-26T07:01:29.000Z"
   },
   {
-    "slug": "greenhouse-6102387004",
+    "dedupeKey": "greenhouse:6102387004",
     "company": "Altruist",
     "companyDomain": "altruist.com",
     "role": "Senior Product Manager, Growth (Hazel AI)",
@@ -5115,7 +5022,7 @@
     "posted": "2026-06-26T03:38:49.000Z"
   },
   {
-    "slug": "greenhouse-5281348008",
+    "dedupeKey": "greenhouse:5281348008",
     "company": "Anthropic",
     "companyDomain": "anthropic.com",
     "role": "Web Product Manager",
@@ -5138,7 +5045,7 @@
     "posted": "2026-06-26T03:14:52.000Z"
   },
   {
-    "slug": "greenhouse-8603350002",
+    "dedupeKey": "greenhouse:8603350002",
     "company": "Ethos Life",
     "companyDomain": "ethoslife.com",
     "role": "Director, Product Management, Consumer",
@@ -5159,7 +5066,7 @@
     "posted": "2026-06-26T01:05:12.000Z"
   },
   {
-    "slug": "ashby-8acfcdcc-6798-4030-be20-531dde30bdf1",
+    "dedupeKey": "ashby:8acfcdcc-6798-4030-be20-531dde30bdf1",
     "company": "MURAL",
     "companyDomain": "mural.com",
     "role": "Senior Product Manager, Growth & Engagement",
@@ -5187,7 +5094,7 @@
     "posted": "2026-06-26T00:59:35.167Z"
   },
   {
-    "slug": "greenhouse-7780492003",
+    "dedupeKey": "greenhouse:7780492003",
     "company": "Affirm",
     "companyDomain": "affirm.com",
     "role": "Director, Product Management",
@@ -5199,7 +5106,7 @@
     "posted": "2026-06-26T00:48:46.000Z"
   },
   {
-    "slug": "greenhouse-7780490003",
+    "dedupeKey": "greenhouse:7780490003",
     "company": "Affirm",
     "companyDomain": "affirm.com",
     "role": "Director, Product Management (Shopping & Offers)",
@@ -5224,7 +5131,7 @@
     "posted": "2026-06-26T00:48:37.000Z"
   },
   {
-    "slug": "greenhouse-7709682003",
+    "dedupeKey": "greenhouse:7709682003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Senior Product Manager, Profiles Platform",
@@ -5248,7 +5155,7 @@
     "posted": "2026-06-26T00:05:44.000Z"
   },
   {
-    "slug": "workday-jr-025520",
+    "dedupeKey": "workday:JR-025520",
     "company": "Craft Education",
     "companyDomain": "crafteducation.com",
     "role": "Staff Software Product Manager - Communications Engineering",
@@ -5284,7 +5191,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r26-2450",
+    "dedupeKey": "workday:R26-2450",
     "company": "Plex Systems, Inc.",
     "companyDomain": "plex.com",
     "role": "Product Manager – ERP Finance & AI Automation",
@@ -5309,7 +5216,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-r170048",
+    "dedupeKey": "workday:R170048",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Principal Product Manager, Adobe Express",
@@ -5335,7 +5242,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr341118",
+    "dedupeKey": "workday:JR341118",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Director/Senior Director of Product, Agentforce Self Service",
@@ -5366,7 +5273,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr337926",
+    "dedupeKey": "workday:JR337926",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Product Manager/Sr. Product Manager – Developer Experience & Platform, Mulesoft",
@@ -5396,7 +5303,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr344827",
+    "dedupeKey": "workday:JR344827",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Director, Product Management - Agentforce Contact Center",
@@ -5420,7 +5327,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-569898",
+    "dedupeKey": "workday:569898",
     "company": "Philips Health Technology Innovation Paris",
     "companyDomain": "careers.philips.com",
     "role": "Product Manager - Commercial Platform",
@@ -5455,7 +5362,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-26wd99608",
+    "dedupeKey": "workday:26WD99608",
     "company": "Autodesk",
     "companyDomain": "autodesk.co.uk",
     "role": "Senior Technical Product Manager, Data Acquisition",
@@ -5481,7 +5388,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr1996363",
+    "dedupeKey": "workday:JR1996363",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Software Program Manager - Datacenter Compute Server",
@@ -5512,7 +5419,7 @@
     "posted": "2026-06-26T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8573740002",
+    "dedupeKey": "greenhouse:8573740002",
     "company": "SpaceX",
     "companyDomain": "spacex.com",
     "role": "Sr. Product E-Commerce Manager (Starlink)",
@@ -5532,7 +5439,7 @@
     "posted": "2026-06-25T23:59:42.000Z"
   },
   {
-    "slug": "ashby-254380a8-3711-4295-8282-9cd4c8623c6d",
+    "dedupeKey": "ashby:254380a8-3711-4295-8282-9cd4c8623c6d",
     "company": "Juniper Square",
     "companyDomain": "junipersquare.com",
     "role": "Group Product Manager, AI-Native Data Warehouse",
@@ -5557,7 +5464,7 @@
     "posted": "2026-06-25T23:09:57.392Z"
   },
   {
-    "slug": "greenhouse-8028435",
+    "dedupeKey": "greenhouse:8028435",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Senior Product Manager, Fleet Optimization",
@@ -5586,7 +5493,7 @@
     "posted": "2026-06-25T22:18:05.000Z"
   },
   {
-    "slug": "greenhouse-8462414002",
+    "dedupeKey": "greenhouse:8462414002",
     "company": "Ethos Life",
     "companyDomain": "ethoslife.com",
     "role": "Principal Product Manager",
@@ -5608,7 +5515,7 @@
     "posted": "2026-06-25T22:09:00.000Z"
   },
   {
-    "slug": "greenhouse-8011696",
+    "dedupeKey": "greenhouse:8011696",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Head of Data and Insights Business",
@@ -5630,7 +5537,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "greenhouse-7779114",
+    "dedupeKey": "greenhouse:7779114",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Senior Product Manager, Growth - Web & E-commerce",
@@ -5656,7 +5563,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "greenhouse-7772790",
+    "dedupeKey": "greenhouse:7772790",
     "company": "10X Genomics",
     "companyDomain": "10xgenomics.com",
     "role": "Sr. Program Manager",
@@ -5686,7 +5593,7 @@
     "posted": "2026-06-25T21:47:22.000Z"
   },
   {
-    "slug": "ashby-082e18f1-19fa-4a0f-8cf0-e2037f00df44",
+    "dedupeKey": "ashby:082e18f1-19fa-4a0f-8cf0-e2037f00df44",
     "company": "Toku",
     "companyDomain": "trytoku.com",
     "role": "Product Manager MX",
@@ -5704,7 +5611,7 @@
     "posted": "2026-06-25T21:44:56.173Z"
   },
   {
-    "slug": "greenhouse-8017174",
+    "dedupeKey": "greenhouse:8017174",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Senior Business Technology Product Manager- Supply Chain",
@@ -5728,7 +5635,7 @@
     "posted": "2026-06-25T21:43:25.000Z"
   },
   {
-    "slug": "greenhouse-8000775",
+    "dedupeKey": "greenhouse:8000775",
     "company": "Braze",
     "companyDomain": "braze.com",
     "role": "Senior Technical Product Manager",
@@ -5749,7 +5656,7 @@
     "posted": "2026-06-25T21:42:25.000Z"
   },
   {
-    "slug": "greenhouse-8028648",
+    "dedupeKey": "greenhouse:8028648",
     "company": "Qualia",
     "companyDomain": "qualia.com",
     "role": "Senior Product Manager, Platform",
@@ -5767,7 +5674,7 @@
     "posted": "2026-06-25T21:38:15.000Z"
   },
   {
-    "slug": "greenhouse-8027701",
+    "dedupeKey": "greenhouse:8027701",
     "company": "Braze",
     "companyDomain": "braze.com",
     "role": "Senior Technical Product Manager, Content Platforms (Localization)",
@@ -5790,7 +5697,7 @@
     "posted": "2026-06-25T21:36:34.000Z"
   },
   {
-    "slug": "greenhouse-8584954002",
+    "dedupeKey": "greenhouse:8584954002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Program Manager",
@@ -5812,7 +5719,7 @@
     "posted": "2026-06-25T21:16:25.000Z"
   },
   {
-    "slug": "greenhouse-8596193002",
+    "dedupeKey": "greenhouse:8596193002",
     "company": "AlphaSense",
     "companyDomain": "alpha-sense.com",
     "role": "Senior Product Manager - AI Workflows (Expert Research)",
@@ -5831,7 +5738,7 @@
     "posted": "2026-06-25T20:18:04.000Z"
   },
   {
-    "slug": "greenhouse-6011245004",
+    "dedupeKey": "greenhouse:6011245004",
     "company": "Diligent Corporation",
     "companyDomain": "diligent.com",
     "role": "Senior Product Manager, Identity & Authentication Platform BU",
@@ -5861,7 +5768,7 @@
     "posted": "2026-06-25T19:41:13.000Z"
   },
   {
-    "slug": "greenhouse-8022482",
+    "dedupeKey": "greenhouse:8022482",
     "company": "Okta",
     "companyDomain": "okta.com",
     "role": "Senior Product Manager - UI Platform",
@@ -5884,7 +5791,7 @@
     "posted": "2026-06-25T19:38:26.000Z"
   },
   {
-    "slug": "greenhouse-8609245002",
+    "dedupeKey": "greenhouse:8609245002",
     "company": "Twitch",
     "companyDomain": "twitch.tv",
     "role": "Senior Product Manager, Community",
@@ -5911,7 +5818,7 @@
     "posted": "2026-06-25T19:25:30.000Z"
   },
   {
-    "slug": "greenhouse-8609244002",
+    "dedupeKey": "greenhouse:8609244002",
     "company": "Twitch",
     "companyDomain": "twitch.tv",
     "role": "Senior Product Manager, Community",
@@ -5935,7 +5842,7 @@
     "posted": "2026-06-25T19:25:29.000Z"
   },
   {
-    "slug": "greenhouse-8606704002",
+    "dedupeKey": "greenhouse:8606704002",
     "company": "Twitch",
     "companyDomain": "twitch.tv",
     "role": "Senior Product Manager, Community",
@@ -5962,7 +5869,7 @@
     "posted": "2026-06-25T19:25:28.000Z"
   },
   {
-    "slug": "greenhouse-8609243002",
+    "dedupeKey": "greenhouse:8609243002",
     "company": "Twitch",
     "companyDomain": "twitch.tv",
     "role": "Senior Product Manager, Community",
@@ -5986,7 +5893,7 @@
     "posted": "2026-06-25T19:25:28.000Z"
   },
   {
-    "slug": "ashby-dc018fd8-12f1-4cd5-8f7c-aac3924fdd19",
+    "dedupeKey": "ashby:dc018fd8-12f1-4cd5-8f7c-aac3924fdd19",
     "company": "Enode",
     "companyDomain": "enode.com",
     "role": "Product Lead - Experience",
@@ -6014,7 +5921,7 @@
     "posted": "2026-06-25T19:20:02.103Z"
   },
   {
-    "slug": "greenhouse-8530421002",
+    "dedupeKey": "greenhouse:8530421002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Product Manager, AI & App Experience",
@@ -6038,7 +5945,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8530184002",
+    "dedupeKey": "greenhouse:8530184002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Product Manager, Trust & Safety",
@@ -6060,7 +5967,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-8552459002",
+    "dedupeKey": "greenhouse:8552459002",
     "company": "Chime",
     "companyDomain": "chime.com",
     "role": "Senior Program Manager, AI Enablement",
@@ -6085,7 +5992,7 @@
     "posted": "2026-06-25T18:08:14.000Z"
   },
   {
-    "slug": "greenhouse-7891325",
+    "dedupeKey": "greenhouse:7891325",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Staff Product Manager, Rubrik Security Cloud AI Platform",
@@ -6107,7 +6014,7 @@
     "posted": "2026-06-25T18:03:06.000Z"
   },
   {
-    "slug": "greenhouse-7508544",
+    "dedupeKey": "greenhouse:7508544",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Director, Product Management- Data Threat Analytics",
@@ -6131,7 +6038,7 @@
     "posted": "2026-06-25T18:03:05.000Z"
   },
   {
-    "slug": "greenhouse-7423902",
+    "dedupeKey": "greenhouse:7423902",
     "company": "Rubrik",
     "companyDomain": "rubrik.com",
     "role": "Staff Platform Product Manager, Platform & Cloud Security",
@@ -6156,7 +6063,7 @@
     "posted": "2026-06-25T18:03:05.000Z"
   },
   {
-    "slug": "ashby-8b409255-1c51-4d46-9914-47bac7cc108f",
+    "dedupeKey": "ashby:8b409255-1c51-4d46-9914-47bac7cc108f",
     "company": "G2",
     "companyDomain": "g2.com",
     "role": "Product Manager",
@@ -6177,7 +6084,7 @@
     "posted": "2026-06-25T17:48:17.280Z"
   },
   {
-    "slug": "greenhouse-7700461",
+    "dedupeKey": "greenhouse:7700461",
     "company": "Samsara",
     "companyDomain": "samsara.com",
     "role": "Senior Product Manager, Growth",
@@ -6202,7 +6109,7 @@
     "posted": "2026-06-25T16:53:27.000Z"
   },
   {
-    "slug": "ashby-5ac59bcb-0245-4a82-bab0-0ebdeae07ccd",
+    "dedupeKey": "ashby:5ac59bcb-0245-4a82-bab0-0ebdeae07ccd",
     "company": "LangChain",
     "companyDomain": "langchain.com",
     "role": "Product Manager, Fleet",
@@ -6221,7 +6128,7 @@
     "posted": "2026-06-25T16:32:56.777Z"
   },
   {
-    "slug": "greenhouse-7660535",
+    "dedupeKey": "greenhouse:7660535",
     "company": "gogobot",
     "companyDomain": "skyscanner.com",
     "role": "Principal  Product Manager - Loyalty",
@@ -6242,7 +6149,7 @@
     "posted": "2026-06-25T16:31:19.000Z"
   },
   {
-    "slug": "greenhouse-7660511",
+    "dedupeKey": "greenhouse:7660511",
     "company": "gogobot",
     "companyDomain": "skyscanner.com",
     "role": " Principal  Product Manager - Loyalty",
@@ -6262,7 +6169,7 @@
     "posted": "2026-06-25T16:31:17.000Z"
   },
   {
-    "slug": "ashby-269144d5-6d1a-4de9-a54c-a201a5a23aa1",
+    "dedupeKey": "ashby:269144d5-6d1a-4de9-a54c-a201a5a23aa1",
     "company": "Headway",
     "companyDomain": "headway.co",
     "role": "Director of Product, CX Product",
@@ -6289,7 +6196,7 @@
     "posted": "2026-06-25T16:29:54.701Z"
   },
   {
-    "slug": "greenhouse-7944552",
+    "dedupeKey": "greenhouse:7944552",
     "company": "Tanium",
     "companyDomain": "tanium.com",
     "role": "Director of Product Management - Endpoint Management Partner Integrations",
@@ -6320,7 +6227,7 @@
     "posted": "2026-06-25T16:24:05.000Z"
   },
   {
-    "slug": "ashby-ec47dac5-1218-4894-9ad0-95801952b250",
+    "dedupeKey": "ashby:ec47dac5-1218-4894-9ad0-95801952b250",
     "company": "Assembled",
     "companyDomain": "assembled.com",
     "role": "Product Manager",
@@ -6343,7 +6250,7 @@
     "posted": "2026-06-25T16:20:18.473Z"
   },
   {
-    "slug": "ashby-ce6a580b-7199-48c7-af8f-b5cb393c918c",
+    "dedupeKey": "ashby:ce6a580b-7199-48c7-af8f-b5cb393c918c",
     "company": "Bynder",
     "companyDomain": "bynder.com",
     "role": "Senior Product Manager - Automation & Approval Workflows",
@@ -6371,7 +6278,7 @@
     "posted": "2026-06-25T16:07:05.483Z"
   },
   {
-    "slug": "ashby-87a3faf1-2f78-4022-9c3d-949b476d51bf",
+    "dedupeKey": "ashby:87a3faf1-2f78-4022-9c3d-949b476d51bf",
     "company": "Kind Humanoid",
     "companyDomain": "kindhumanoid.com",
     "role": "Lead Technical Product Manager - Data ",
@@ -6393,7 +6300,7 @@
     "posted": "2026-06-25T15:59:06.875Z"
   },
   {
-    "slug": "greenhouse-8606856002",
+    "dedupeKey": "greenhouse:8606856002",
     "company": "Invoca",
     "companyDomain": "invoca.com",
     "role": "Senior Product Manager, Data Platform & Intelligence",
@@ -6421,7 +6328,7 @@
     "posted": "2026-06-25T15:51:35.000Z"
   },
   {
-    "slug": "greenhouse-7708059003",
+    "dedupeKey": "greenhouse:7708059003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Senior Product Manager, Platform Integrity",
@@ -6444,7 +6351,7 @@
     "posted": "2026-06-25T15:46:18.000Z"
   },
   {
-    "slug": "greenhouse-7728815003",
+    "dedupeKey": "greenhouse:7728815003",
     "company": "Klaviyo",
     "companyDomain": "klaviyo.com",
     "role": "Lead Product Manager, Core Data",
@@ -6467,7 +6374,7 @@
     "posted": "2026-06-25T15:44:53.000Z"
   },
   {
-    "slug": "greenhouse-5279349008",
+    "dedupeKey": "greenhouse:5279349008",
     "company": "Herald",
     "companyDomain": "heraldapi.com",
     "role": "Product Manager",
@@ -6486,7 +6393,7 @@
     "posted": "2026-06-25T15:36:57.000Z"
   },
   {
-    "slug": "ashby-4349c890-0748-428c-a505-3cb7ca68733d",
+    "dedupeKey": "ashby:4349c890-0748-428c-a505-3cb7ca68733d",
     "company": "Aiwyn",
     "companyDomain": "aiwyn.ai",
     "role": "Senior Product Manager, Payments",
@@ -6507,7 +6414,7 @@
     "posted": "2026-06-25T15:04:26.659Z"
   },
   {
-    "slug": "greenhouse-7785735003",
+    "dedupeKey": "greenhouse:7785735003",
     "company": "Grover",
     "companyDomain": "grover.com",
     "role": "Senior Product Manager, Retention",
@@ -6532,7 +6439,7 @@
     "posted": "2026-06-25T15:00:35.000Z"
   },
   {
-    "slug": "greenhouse-8603630002",
+    "dedupeKey": "greenhouse:8603630002",
     "company": "Netlify",
     "companyDomain": "netlify.com",
     "role": "Staff Product Manager (Accounts & Billing)",
@@ -6557,7 +6464,7 @@
     "posted": "2026-06-25T14:43:19.000Z"
   },
   {
-    "slug": "greenhouse-7974481",
+    "dedupeKey": "greenhouse:7974481",
     "company": "Datadog",
     "companyDomain": "datadoghq.com",
     "role": "Senior Product Manager - Search",
@@ -6583,7 +6490,7 @@
     "posted": "2026-06-25T14:41:24.000Z"
   },
   {
-    "slug": "lever-e9c62d9e-2c2b-42f3-8f12-5fa2ca6f5372",
+    "dedupeKey": "lever:e9c62d9e-2c2b-42f3-8f12-5fa2ca6f5372",
     "company": "Aledade",
     "companyDomain": "aledade.com",
     "role": "Director of Product Management (Internal AI Product Strategy & Ops), Remote",
@@ -6608,7 +6515,7 @@
     "posted": "2026-06-25T14:21:44.159Z"
   },
   {
-    "slug": "greenhouse-6007496004",
+    "dedupeKey": "greenhouse:6007496004",
     "company": "Apptronik",
     "companyDomain": "apptronik.com",
     "role": "Senior Product Manager - Simulation",
@@ -6631,7 +6538,7 @@
     "posted": "2026-06-25T14:02:35.000Z"
   },
   {
-    "slug": "greenhouse-5991014004",
+    "dedupeKey": "greenhouse:5991014004",
     "company": "Apptronik",
     "companyDomain": "apptronik.com",
     "role": "Senior Product Manager - Sensing & Compute",
@@ -6655,7 +6562,7 @@
     "posted": "2026-06-25T14:02:34.000Z"
   },
   {
-    "slug": "greenhouse-5823488004",
+    "dedupeKey": "greenhouse:5823488004",
     "company": "Apptronik",
     "companyDomain": "apptronik.com",
     "role": "Senior Product Manager - Software Platform",
@@ -6676,7 +6583,7 @@
     "posted": "2026-06-25T14:02:33.000Z"
   },
   {
-    "slug": "greenhouse-5807129004",
+    "dedupeKey": "greenhouse:5807129004",
     "company": "Apptronik",
     "companyDomain": "apptronik.com",
     "role": "Senior Technical Program Manager",
@@ -6697,7 +6604,7 @@
     "posted": "2026-06-25T14:02:33.000Z"
   },
   {
-    "slug": "greenhouse-8603652002",
+    "dedupeKey": "greenhouse:8603652002",
     "company": "Netlify",
     "companyDomain": "netlify.com",
     "role": "Principal Product Manager (Growth)",
@@ -6720,7 +6627,7 @@
     "posted": "2026-06-25T13:48:12.000Z"
   },
   {
-    "slug": "ashby-a7d68dea-5510-4587-be89-ae56753a41bf",
+    "dedupeKey": "ashby:a7d68dea-5510-4587-be89-ae56753a41bf",
     "company": "Tessl",
     "companyDomain": "tessl.io",
     "role": "Member of Product Staff - Product Manager",
@@ -6738,7 +6645,7 @@
     "posted": "2026-06-25T13:35:13.731Z"
   },
   {
-    "slug": "ashby-d1929896-894a-4e47-b2b4-d1e9aa27e0e2",
+    "dedupeKey": "ashby:d1929896-894a-4e47-b2b4-d1e9aa27e0e2",
     "company": "Blitzy",
     "companyDomain": "blitzy.com",
     "role": "Project Manager",
@@ -6756,7 +6663,7 @@
     "posted": "2026-06-25T12:59:59.247Z"
   },
   {
-    "slug": "ashby-7699acde-d3f6-4add-96d1-6f3b8299a1fe",
+    "dedupeKey": "ashby:7699acde-d3f6-4add-96d1-6f3b8299a1fe",
     "company": "Nivoda",
     "companyDomain": "nivoda.net",
     "role": "Senior Product Manager - Growth",
@@ -6775,7 +6682,7 @@
     "posted": "2026-06-25T11:33:30.264Z"
   },
   {
-    "slug": "greenhouse-7916820",
+    "dedupeKey": "greenhouse:7916820",
     "company": "gogobot",
     "companyDomain": "skyscanner.com",
     "role": "Director of Product - Data Platform and Decision Tooling",
@@ -6795,7 +6702,7 @@
     "posted": "2026-06-25T10:26:40.000Z"
   },
   {
-    "slug": "greenhouse-7916818",
+    "dedupeKey": "greenhouse:7916818",
     "company": "gogobot",
     "companyDomain": "skyscanner.com",
     "role": "Director of Product - Data Platform and Decision Tooling",
@@ -6815,7 +6722,7 @@
     "posted": "2026-06-25T10:25:57.000Z"
   },
   {
-    "slug": "greenhouse-7916817",
+    "dedupeKey": "greenhouse:7916817",
     "company": "gogobot",
     "companyDomain": "skyscanner.com",
     "role": "Director of Product - Data Platform and Decision Tooling",
@@ -6835,7 +6742,7 @@
     "posted": "2026-06-25T10:24:43.000Z"
   },
   {
-    "slug": "greenhouse-7784608003",
+    "dedupeKey": "greenhouse:7784608003",
     "company": "Xendit",
     "companyDomain": "xendit.co",
     "role": "Product Manager – Risk Products",
@@ -6858,7 +6765,7 @@
     "posted": "2026-06-25T10:22:19.000Z"
   },
   {
-    "slug": "greenhouse-8007326",
+    "dedupeKey": "greenhouse:8007326",
     "company": "Cloudflare",
     "companyDomain": "cloudflare.com",
     "role": "Senior Product Manager - Ad Fraud and Identity Solutions",
@@ -6882,7 +6789,7 @@
     "posted": "2026-06-25T10:02:37.000Z"
   },
   {
-    "slug": "greenhouse-7687708003",
+    "dedupeKey": "greenhouse:7687708003",
     "company": "Celonis",
     "companyDomain": "celonis.com",
     "role": "Senior Product Manager",
@@ -6907,7 +6814,7 @@
     "posted": "2026-06-25T09:49:10.000Z"
   },
   {
-    "slug": "ashby-0bd90648-cae7-4f97-b753-8d43ed009f37",
+    "dedupeKey": "ashby:0bd90648-cae7-4f97-b753-8d43ed009f37",
     "company": "CodeRabbit",
     "companyDomain": "coderabbit.ai",
     "role": "Growth Product Manager",
@@ -6933,7 +6840,7 @@
     "posted": "2026-06-25T08:14:03.772Z"
   },
   {
-    "slug": "teamtailor-8fb62083-684b-48e9-8dcf-be28e217cc03",
+    "dedupeKey": "teamtailor:8fb62083-684b-48e9-8dcf-be28e217cc03",
     "company": "La Fabrique by CA",
     "companyDomain": "lafabriquebyca.com",
     "role": "[KLS] CPO",
@@ -6961,7 +6868,7 @@
     "posted": "2026-06-25T07:11:23.000Z"
   },
   {
-    "slug": "greenhouse-8018609",
+    "dedupeKey": "greenhouse:8018609",
     "company": "Showpad",
     "companyDomain": "showpad.com",
     "role": "Senior Product Manager",
@@ -6990,7 +6897,7 @@
     "posted": "2026-06-25T07:06:13.000Z"
   },
   {
-    "slug": "greenhouse-8009684",
+    "dedupeKey": "greenhouse:8009684",
     "company": "Showpad",
     "companyDomain": "showpad.com",
     "role": "Product Owner",
@@ -7009,7 +6916,7 @@
     "posted": "2026-06-25T06:43:14.000Z"
   },
   {
-    "slug": "ashby-ff561bd0-36a7-4471-8c79-3e2dc830854f",
+    "dedupeKey": "ashby:ff561bd0-36a7-4471-8c79-3e2dc830854f",
     "company": "Legora",
     "companyDomain": "legora.com",
     "role": "Senior Product Manager - Enterprise",
@@ -7032,7 +6939,7 @@
     "posted": "2026-06-25T06:33:56.712Z"
   },
   {
-    "slug": "ashby-2dfdbd92-5307-49a0-80ab-fa95824474f0",
+    "dedupeKey": "ashby:2dfdbd92-5307-49a0-80ab-fa95824474f0",
     "company": "Legora",
     "companyDomain": "legora.com",
     "role": "Senior Product Manager - Billing and Pricing ",
@@ -7058,7 +6965,7 @@
     "posted": "2026-06-25T06:31:27.256Z"
   },
   {
-    "slug": "ashby-5b15c4aa-effa-4b9c-95bc-c061c70dfca9",
+    "dedupeKey": "ashby:5b15c4aa-effa-4b9c-95bc-c061c70dfca9",
     "company": "Legora",
     "companyDomain": "legora.com",
     "role": "Senior Product Manager ",
@@ -7081,7 +6988,7 @@
     "posted": "2026-06-25T06:20:43.284Z"
   },
   {
-    "slug": "ashby-524f31b6-3cbd-44e2-aef1-bc9ffb53be49",
+    "dedupeKey": "ashby:524f31b6-3cbd-44e2-aef1-bc9ffb53be49",
     "company": "Snowflake",
     "companyDomain": "snowflake.com",
     "role": "Product Manager - Developer Platform",
@@ -7098,7 +7005,7 @@
     "posted": "2026-06-25T06:16:16.455Z"
   },
   {
-    "slug": "ashby-a0779b7f-90c9-4f0a-b428-fced1426ce93",
+    "dedupeKey": "ashby:a0779b7f-90c9-4f0a-b428-fced1426ce93",
     "company": "Airwallex",
     "companyDomain": "airwallex.com",
     "role": "Staff Product Manager, Onboarding",
@@ -7121,7 +7028,7 @@
     "posted": "2026-06-25T02:26:38.656Z"
   },
   {
-    "slug": "greenhouse-5172625007",
+    "dedupeKey": "greenhouse:5172625007",
     "company": "Arkestro",
     "companyDomain": "arkestro.com",
     "role": "Senior Product Manager",
@@ -7147,7 +7054,7 @@
     "posted": "2026-06-25T01:25:14.000Z"
   },
   {
-    "slug": "greenhouse-5173135007",
+    "dedupeKey": "greenhouse:5173135007",
     "company": "Verkada",
     "companyDomain": "verkada.com",
     "role": "Business Systems - Product Manager",
@@ -7168,7 +7075,7 @@
     "posted": "2026-06-25T00:21:11.000Z"
   },
   {
-    "slug": "workday-r29110",
+    "dedupeKey": "workday:R29110",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Sr. Product Manager - NG-SIEM (Hybrid, DNK)",
@@ -7199,7 +7106,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r28616",
+    "dedupeKey": "workday:R28616",
     "company": "CrowdStrike",
     "companyDomain": "crowdstrike.com",
     "role": "Senior Product Manager - ASPM",
@@ -7239,7 +7146,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-2601991",
+    "dedupeKey": "workday:2601991",
     "company": "Marvell Semiconductor",
     "companyDomain": "marvell.com",
     "role": "Sr. Principal Program Manager (Hyperscaler Cloud Data Center - full lifecycle program ownership)",
@@ -7262,7 +7169,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr0284923",
+    "dedupeKey": "workday:JR0284923",
     "company": "Intel",
     "companyDomain": "intel.com",
     "role": "AI Product Analyst student for AI Solutions Group",
@@ -7284,7 +7191,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r166988",
+    "dedupeKey": "workday:R166988",
     "company": "Frame.io",
     "companyDomain": "frame.io",
     "role": "Senior Product Manager",
@@ -7309,7 +7216,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr101883",
+    "dedupeKey": "workday:JR101883",
     "company": "Darktrace",
     "companyDomain": "darktrace.com",
     "role": "Director of Product",
@@ -7334,7 +7241,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr-0107637",
+    "dedupeKey": "workday:JR-0107637",
     "company": "Workday",
     "companyDomain": "workday.com",
     "role": "Principal Product Manager,  Developer Platform Experience",
@@ -7361,7 +7268,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r15794",
+    "dedupeKey": "workday:R15794",
     "company": "Open",
     "companyDomain": "open.global",
     "role": "Product Owner",
@@ -7385,7 +7292,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346777",
+    "dedupeKey": "workday:JR346777",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Product Manager, Schema and Metadata",
@@ -7413,7 +7320,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr343327",
+    "dedupeKey": "workday:JR343327",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "Senior Director - Portfolio Product Strategy & AI Alignment",
@@ -7440,7 +7347,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr346418",
+    "dedupeKey": "workday:JR346418",
     "company": "Salesforce",
     "companyDomain": "salesforce.com",
     "role": "VP, Product Management - Agentforce Public Sector (Missionforce)",
@@ -7466,7 +7373,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2020053",
+    "dedupeKey": "workday:JR2020053",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Senior Product Manager - Agentic Data Analytics",
@@ -7497,7 +7404,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr2002082",
+    "dedupeKey": "workday:JR2002082",
     "company": "2100 NVIDIA USA",
     "companyDomain": "nvidia.com",
     "role": "Go-to-Market Product Manager - Customer Ecosystem and ODM Enablement",
@@ -7531,7 +7438,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-jr100506",
+    "dedupeKey": "workday:JR100506",
     "company": "Avant",
     "companyDomain": "avant.com",
     "role": "Associate Product Manager, Customer Experience",
@@ -7556,7 +7463,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "workday-r1550663",
+    "dedupeKey": "workday:R1550663",
     "company": "IQVIA",
     "companyDomain": "iqvia.com",
     "role": "Generative AI Program Manager",
@@ -7583,7 +7490,7 @@
     "posted": "2026-06-25T00:00:00.000Z"
   },
   {
-    "slug": "greenhouse-8602891002",
+    "dedupeKey": "greenhouse:8602891002",
     "company": "Wayve",
     "companyDomain": "wayve.ai",
     "role": "Lead Technical Program Manager, Data",
@@ -7619,7 +7526,7 @@
     "posted": "2026-06-24T23:47:02.000Z"
   },
   {
-    "slug": "ashby-3d94b609-2e1d-45f2-8201-9995e564b233",
+    "dedupeKey": "ashby:3d94b609-2e1d-45f2-8201-9995e564b233",
     "company": "Volley",
     "companyDomain": "volleygames.com",
     "role": "Senior Product Manager, Weekend Platform",
@@ -7642,7 +7549,7 @@
     "posted": "2026-06-24T23:40:08.168Z"
   },
   {
-    "slug": "ashby-a263ff2e-f538-4c13-bbff-b2606a9699d7",
+    "dedupeKey": "ashby:a263ff2e-f538-4c13-bbff-b2606a9699d7",
     "company": "Broccoli AI",
     "companyDomain": "broccoli.com",
     "role": "Senior Product Manager: New Verticals",
@@ -7666,7 +7573,7 @@
     "posted": "2026-06-24T22:59:30.563Z"
   },
   {
-    "slug": "greenhouse-8027001",
+    "dedupeKey": "greenhouse:8027001",
     "company": "Waymo",
     "companyDomain": "waymo.com",
     "role": "Product Manager, Growth",
@@ -7687,5 +7594,70 @@
       "cross-functional leadership"
     ],
     "posted": "2026-06-24T22:55:23.000Z"
+  },
+  {
+    "dedupeKey": "ashby:f596649b-757c-446c-8f2b-1ee3b5c0cd13",
+    "company": "Snowflake",
+    "companyDomain": "snowflake.com",
+    "role": "Principal Program Manager",
+    "applyUrl": "https://jobs.ashbyhq.com/snowflake/f596649b-757c-446c-8f2b-1ee3b5c0cd13/application",
+    "location": "US-IL-Chicago-MSO",
+    "remote": "remote",
+    "level": "principal",
+    "skills": [
+      "program management",
+      "project management",
+      "data migration",
+      "cloud computing",
+      "data warehousing",
+      "business intelligence",
+      "ai",
+      "risk management"
+    ],
+    "posted": "2026-06-24T22:50:31.430Z"
+  },
+  {
+    "dedupeKey": "ashby:62267b66-e970-432c-8cf2-5b6bb25302a4",
+    "company": "Zip Security",
+    "companyDomain": "zipsec.com",
+    "role": "Senior Product Manager, AP Automation",
+    "applyUrl": "https://jobs.ashbyhq.com/zip/62267b66-e970-432c-8cf2-5b6bb25302a4/application",
+    "location": "San Francisco",
+    "remote": "onsite",
+    "level": "senior",
+    "skills": [
+      "product strategy",
+      "product roadmap",
+      "SaaS",
+      "AI",
+      "enterprise software",
+      "procurement",
+      "accounts payable",
+      "invoice processing",
+      "workflow automation"
+    ],
+    "posted": "2026-06-24T22:31:49.452Z"
+  },
+  {
+    "dedupeKey": "greenhouse:5172169007",
+    "company": "Together AI",
+    "companyDomain": "together.ai",
+    "role": "Product Manager, AI Infrastructure",
+    "applyUrl": "https://job-boards.greenhouse.io/togetherai/jobs/5172169007",
+    "location": "San Francisco",
+    "remote": "",
+    "level": "mid",
+    "skills": [
+      "product management",
+      "ai",
+      "cloud",
+      "infrastructure",
+      "gpu",
+      "observability",
+      "storage",
+      "data analysis",
+      "experimentation"
+    ],
+    "posted": "2026-06-24T21:23:11.000Z"
   }
 ]
