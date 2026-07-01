@@ -4,7 +4,7 @@
 ![Roles](https://img.shields.io/badge/300%20live%20roles-ff5b29) ![Updated](https://img.shields.io/badge/updated-2026.07.01-00A86B) [![Stars](https://img.shields.io/github/stars/landedjobs/ai-product-engineer-jobs?style=social)](https://github.com/landedjobs/ai-product-engineer-jobs)
 
 > An open, **auto-updated** list of **300** AI Product Engineer roles at AI-native companies — refreshed every few days (updated 2026-07-01).
-> Curated by [Landed](https://landed.jobs) — scout roles, get **referred**, prep, and land the job.
+> Curated by [Landed](https://landed.jobs) — fresh matched roles daily, agent-drafted application answers, and mock-interview prep.
 
 ⭐ **Star this repo** to keep this list handy.
 
@@ -181,7 +181,7 @@ An **AI Product Engineer** is the new 'PM who ships' — owning product *and* bu
 | **[Flexport](https://flexport.com)** | Staff Product Manager | Bellevue, Washington, United States; San Francisco, California, United States | Staff | `Product Strategy` `Product Roadmap` `Sql` | 4d | <a href="https://go.landed.jobs/eHUkzN" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
 | **[Flexport](https://flexport.com)** | Staff Product Manager | Shenzhen, China | Staff | `Product Management` `Roadmap` `Data Analysis` | 4d | <a href="https://go.landed.jobs/VMAVYd" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
 | **[Flexport](https://flexport.com)** | Staff Product Manager, Growth | San Francisco, California, United States | Staff | `Product Led Growth` `A/B Testing` `Seo` | 4d | <a href="https://go.landed.jobs/tRc9Ec" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
-| **[Jobber](https://getjobber.com)** | Senior Product Manager, Franchise | Toronto | Senior | `Product Strategy` `Product Roadmap` `SaaS` | 4d | <a href="https://go.landed.jobs/hDzvWK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
+| **[Jobber](https://getjobber.com)** | Senior Product Manager, Franchise | Toronto | Senior | `Product Strategy` `Product Roadmap` `SaaS` | 5d | <a href="https://go.landed.jobs/hDzvWK" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
 | **[Rubrik](https://rubrik.com)** | Staff IT Product Manager, Sales & Marketing | Palo Alto, CA | Staff | `Salesforce` `Sox` `Crm` | 5d | <a href="https://go.landed.jobs/rsMVdU" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
 | **[Split](https://split.io)** | Principal / Director, Product Management – Code & Container Security | Mountain View, California, United States | Principal | `Product Management` `Application Security` `Devsecops` | 5d | <a href="https://go.landed.jobs/nk6X4S" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
 | **[Playground](https://playground.com)** | Technical Product Manager | New York, NY | Senior | `Product Management` `Saas` `B2b` | 5d | <a href="https://go.landed.jobs/A7um6Z" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Apply-ff5b29?style=for-the-badge&logoColor=white" alt="Apply"></a> |
@@ -354,7 +354,7 @@ An **AI Product Engineer** is the new 'PM who ships' — owning product *and* bu
 
 ## How to actually land one
 
-These roles usually go to people who get **referred**. With Landed you can scout every opening, find a connection at the company and auto-draft a referral message, prep with company-specific mock interviews, and track every application.
+Fewer, better applications beat the spray. Landed brings you matched roles daily, drafts your answers to each application's questions, and preps you with courses and voice mock interviews.
 
 **[Get started free → https://landed.jobs](https://landed.jobs)**
 
