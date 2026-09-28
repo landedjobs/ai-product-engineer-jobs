@@ -4634,40 +4634,6 @@
     ]
   },
   {
-    "dedupeKey": "job:11752b39-b61e-4030-b013-2a0ca83e6038",
-    "companyId": "company_496a9a7de0a1eb537f6db5d919ea81a0",
-    "company": "Intel",
-    "companyDomain": "intel.com",
-    "role": "Product Manager – AI Software and Solution",
-    "applyUrl": "https://go.landed.jobs/4hcc3w5",
-    "location": "Santa Clara, CA +4",
-    "locations": [
-      "Santa Clara, CA",
-      "Hillsboro, OR",
-      "Folsom, CA",
-      "Austin, TX",
-      "Phoenix, AZ"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "product_management",
-    "level": "senior",
-    "skills": [
-      "cloud-native orchestration tools (Kubernetes, Red Hat OpenShift)",
-      "containerization (Docker)",
-      "modern microservice mesh architectures",
-      "GPU software stack from middleware to frameworks to Agentic toolkits",
-      "RAG applications, Agentic AI, vector databases (e.g., Milvus, Redis, Qdrant)",
-      "AI Inference deployment and Agentic frameworks"
-    ],
-    "posted": "2026-09-15T00:00:00.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Power 50",
-      "$455B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:1d599c41-d524-47d1-83cb-7c0ff87c108d",
     "companyId": "company_d7b824f4372bb3451701af40e8055d08",
     "company": "Thomson Reuters",
@@ -8898,6 +8864,34 @@
     "companyTier": "B",
     "companyBadges": [
       "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:a445d4e1-6244-48e9-91fb-e468e9eae77b",
+    "companyId": "company_c381be2e12bf8eb5bc519bf668a04bce",
+    "company": "Inkitt",
+    "companyDomain": "inkitt.com",
+    "role": "Staff / Principal Product Manager",
+    "applyUrl": "https://go.landed.jobs/j8jypr5",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "product_management",
+    "level": "staff",
+    "skills": [
+      "AI and predictive algorithms",
+      "researching competitors",
+      "building rigorous business cases",
+      "design and run experiments"
+    ],
+    "posted": "2026-09-20T17:31:31.814Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$390M valuation",
+      "Series C"
     ]
   }
 ]
